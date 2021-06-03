@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: inoyna11/jd28
+          repository: indextank/myjd3
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -41,15 +41,15 @@ jobs:
           python-version: 3.7
       - name: '京东汽车兑换'
         run: |
-              curl https://raw.githubusercontent.com/inoyna11/jd28/master/accwait.py -o accwait.py
+              curl https://raw.githubusercontent.com/indextank/myjd3/master/accwait.py -o accwait.py
               python3 accwait.py 0.1 0.1 58
       - name: '运行'
         run: |
-          curl https://raw.githubusercontent.com/inoyna11/jd28/master/jd_car_exchange.js -o jd_car_exchange.js
-          node jd_car_exchange.js       
-      
-         
-          
+          curl https://raw.githubusercontent.com/indextank/myjd3/master/jd_car_exchange.js -o jd_car_exchange.js
+          node jd_car_exchange.js
+
+
+
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
           JD_DEBUG: ${{ secrets.JD_DEBUG }}

@@ -5,7 +5,7 @@ name: 扫码获取京东cookie
 
 on:
   workflow_dispatch:
- 
+
   watch:
     types: started
   repository_dispatch:
@@ -19,7 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: inoyna11/jd28
+          repository: indextank/myjd3
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -39,8 +39,8 @@ jobs:
         run: |
           node getJDCookie.js
           node getJDCookie.js
-         
-          
+
+
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
           JD_DEBUG: ${{ secrets.JD_DEBUG }}

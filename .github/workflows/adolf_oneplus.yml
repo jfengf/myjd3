@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '25 1 * 5,6 *'
-  
+
   watch:
     types: started
   repository_dispatch:
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: inoyna11/jd28
+          repository: indextank/myjd3
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -36,12 +36,12 @@ jobs:
       - name: npm install
         run: |
           npm install
-         
+
       - name: '运行'
         run: |
           node adolf_oneplus.js
-         
-          
+
+
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
           JD_DEBUG: ${{ secrets.JD_DEBUG }}

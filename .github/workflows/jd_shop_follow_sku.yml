@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: inoyna11/jd28
+          repository: indextank/myjd3
           ref: master
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
@@ -38,8 +38,8 @@ jobs:
         run: |
 
           node jd_shop_follow_sku.js
-      
-          
+
+
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
           JD_USER_AGENT: ${{ secrets.JD_USER_AGENT }}

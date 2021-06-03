@@ -9,7 +9,7 @@ on:
     - cron: '10 7 * * *'
   watch:
     types: started
-  
+
 jobs:
   build:
 
@@ -19,7 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: inoyna11/jd28
+          repository: indextank/myjd3
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -36,7 +36,7 @@ jobs:
           npm install
       - name: '运行 【jd_pigPet】'
         run: |
-         
+
           node jd_pigPet.js
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}

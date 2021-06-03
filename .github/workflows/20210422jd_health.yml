@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: inoyna11/jd28
+          repository: indextank/myjd3
           ref: master
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
@@ -36,9 +36,9 @@ jobs:
           npm install
       - name: '运行'
         run: |
-          node jd_health.js 
-          
-          
+          node jd_health.js
+
+
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
           JD_USER_AGENT: ${{ secrets.JD_USER_AGENT }}
