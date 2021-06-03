@@ -30,28 +30,14 @@ const $ = new Env('618动物联萌');
 const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 const pKHelpFlag = true;//是否PK助力  true 助力，false 不助力
-const pKHelpAuthorFlag = true;//是否助力作者PK  true 助力，false 不助力
+const pKHelpAuthorFlag = false;//是否助力作者PK  true 助力，false 不助力
 //IOS等用户直接用NobyDa的jd cookie
 let cookiesArr = [];
 $.cookie = '';
 $.inviteList = [];
-$.pkInviteList = [
-  "sSKNX-MpqKOPueXmkZy2BD7zV3xlm9D8WFbhlQ",
-  "sSKNX-MpqKOPueXmkZy2BD7zUXVbh4OySGyy4_Kbpm7iWixpdA",
-  "sSKNX-MpqKOJsNu_yJPdUDGMufQVLVPNfugw2YVCYthXGQKLqiI8MN2epVEzGA_D",
-  "sSKNX-MpqKOJsNvu5PmPbChCkktOOqnc2EpJ0TbWiTXtM7_ksY19vipRVBNuZg",
-  "sSKNX-MpqKOJsNvay968Q75P9_AZ78t0Xv4XaZqKTKw7VmbMyd5D_UFYA_os83HTYQ",
-  "sSKNX-MpqKOJsNvay968Q75P9_AZ78t0Xv4XN8vgJ_m6pjVz0gepwmXBbVyU8w",
-];
+$.pkInviteList = [];
 $.secretpInfo = {};
-$.innerPkInviteList = [
-  "sSKNX-MpqKOPueXmkZy2BD7zV3xlm9D8WFbhlQ",
-  "sSKNX-MpqKOPueXmkZy2BD7zUXVbh4OySGyy4_Kbpm7iWixpdA",
-  "sSKNX-MpqKOJsNu_yJPdUDGMufQVLVPNfugw2YVCYthXGQKLqiI8MN2epVEzGA_D",
-  "sSKNX-MpqKOJsNvu5PmPbChCkktOOqnc2EpJ0TbWiTXtM7_ksY19vipRVBNuZg",
-  "sSKNX-MpqKOJsNvay968Q75P9_AZ78t0Xv4XaZqKTKw7VmbMyd5D_UFYA_os83HTYQ",
-  "sSKNX-MpqKOJsNvay968Q75P9_AZ78t0Xv4XN8vgJ_m6pjVz0gepwmXBbVyU8w",
-];
+$.innerPkInviteList = [];
 if ($.isNode()) {
   Object.keys(jdCookieNode).forEach((item) => {
     cookiesArr.push(jdCookieNode[item])
@@ -100,8 +86,8 @@ if ($.isNode()) {
     }
   }
   let res = [], res2 = [], res3 = [];
-  res3 = await getAuthorShareCode('https://raw.githubusercontent.com/inoyna11/Write-files/master/shareCodes/jd_zoo.json');
-  if (!res3) await getAuthorShareCode('https://raw.githubusercontent.com/inoyna11/Write-files/master/shareCodes/jd_zoo.json')
+  res3 = await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json');
+  if (!res3) await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json')
   if (new Date().getHours() >= 9) {
     res = await getAuthorShareCode() || [];
     res2 = await getAuthorShareCode('https://raw.githubusercontent.com/1277002811/JDbot/master/shareCodes/pk.json') || [];
@@ -864,7 +850,7 @@ function getRandomArrayElements(arr, count) {
   }
   return shuffled.slice(min);
 }
-function getAuthorShareCode(url = "https://raw.githubusercontent.com/inoyna11/Write-files/master/shareCodes/jd_zoo.json") {
+function getAuthorShareCode(url = "https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json") {
   return new Promise(async resolve => {
     const options = {
       "url": `${url}?${new Date()}`,
