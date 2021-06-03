@@ -39,7 +39,8 @@ jobs:
 
       - name: '运行'
         run: |
-          node jd_starStore.js
+          # node jd_starStore.js
+          node jd_star_shop.js
 
 
         env:
