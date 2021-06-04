@@ -50,6 +50,9 @@ const inviteCodes = [
   "S5KkcR08R8QCCIhrxkPRfJg",
   "S5KkcAkVQqSKGVWOv0oV2",
   "S4qAiHhYe",
+  "Suvh2SRkQ9VHXPRvwlv8NcNb9",
+  "S5KkcIkxckBO_WGiKyo1o",
+  "",
 ]
 !(async () => {
   $.tuanList = []

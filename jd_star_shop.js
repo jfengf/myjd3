@@ -27,7 +27,10 @@ const $ = new Env('明星小店');
 const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 $.inviteCodeList = [];
-$.authorCodeList = [];
+$.authorCodeList = [
+  'rQI0TkBIzVwHI4fxBQnt6v0doiabNQfNdJglrUVhOP0', 'Rcl-dpjMZKyZUzie7lg4ow', 'lqU3wfq2eBw8N6pRbRBGHg', 'xsK-EVpDVVszF0j95pGD6g',
+  'r3yIDGE86HSsdtyFlrPHJHu_0mNpX_AnBREYO-c3BFY', 'Mve7TKmP8UKnC9IULuBrQHzgY54j_0U5BLm5Ox6aigY',
+];
 let cookiesArr = [];
 let uniqueIdList = [
   { 'id': '637BQA', 'name': '成毅' }, { 'id': 'XLDYRJ', 'name': '白宇' }, { 'id': '94FEDQ', 'name': '任嘉伦' }, { 'id': 'GN949D', 'name': '刘宇宁' }, { 'id': 'WG73ME', 'name': '李光洁' }, { 'id': '5JFCD6', 'name': '李纹翰' },
@@ -133,11 +136,14 @@ async function main() {
       } else {
         console.log(`获得实物：${$.rewards[i].prizeDesc || ''},已填写地址`);
       }
+    } else if ($.rewards[i].prizeType === 10) {
+      console.log(`获得京豆`);
     } else {
       console.log(`获得其他：${$.rewards[i].prizeDesc || ''}`);
     }
   }
   if (sendMessage) {
+    sendMessage += `填写收货地址路径：\n京东首页，搜索明星（蔡徐坤），进入明星小店，我的礼物，填写收货地址`;
     await notify.sendNotify(`星店长`, sendMessage);
   }
 }
