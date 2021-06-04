@@ -86,11 +86,11 @@ if ($.isNode()) {
     }
   }
   let res = [], res2 = [], res3 = [];
-  res3 = await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json');
-  if (!res3) await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json')
-  if (new Date().getHours() >= 9) {
+  res2 = await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json');
+  if (!res2) await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json')
+  if (new Date().getUTCHours() + 8 >= 9) {
     res = await getAuthorShareCode() || [];
-    res2 = await getAuthorShareCode('https://raw.githubusercontent.com/1277002811/JDbot/master/shareCodes/pk.json') || [];
+    res3 = await getAuthorShareCode('https://gitee.com/xr2021/share/raw/master/pk.json') || [];
   }
   if (pKHelpAuthorFlag) {
     $.innerPkInviteList = getRandomArrayElements([...$.innerPkInviteList, ...res, ...res2, ...res3], [...$.innerPkInviteList, ...res, ...res2, ...res3].length);
@@ -107,11 +107,12 @@ if ($.isNode()) {
     $.index = i + 1;
     //console.log($.inviteList);
     //pk助力
-    if (new Date().getUTCHours() + 8 >= 9) {
+    if (new Date().getHours() >= 1) {
       console.log(`\n******开始内部京东账号【怪兽大作战pk】助力*********\n`);
       for (let i = 0; i < $.pkInviteList.length && pKHelpFlag && $.canHelp; i++) {
         console.log(`${$.UserName} 去助力PK码 ${$.pkInviteList[i]}`);
         $.pkInviteId = $.pkInviteList[i];
+        console.log($.pkInviteList);
         await takePostRequest('pkHelp');
         await $.wait(2000);
       }
@@ -850,10 +851,11 @@ function getRandomArrayElements(arr, count) {
   }
   return shuffled.slice(min);
 }
-function getAuthorShareCode(url = "https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json") {
+function getAuthorShareCode(url) {
   return new Promise(async resolve => {
     const options = {
-      "url": `${url}?${new Date()}`,
+      "url": `${url}`,
+      //"url": `${url}?${new Date()}`,
       "timeout": 10000,
       "headers": {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/87.0.4280.88"
