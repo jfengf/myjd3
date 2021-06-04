@@ -312,7 +312,7 @@ async function zoo() {
     if (!$.hotFlag) await takePostRequest('wxTaskDetail');
     for (let i = 0; i < $.wxTaskList.length; i++) {
       $.oneTask = $.wxTaskList[i];
-      if ($.oneTask.taskType === 2 || $.oneTask.status !== 1) { continue; } //不做加购
+      //if ($.oneTask.taskType === 2 || $.oneTask.status !== 1) { continue; } //不做加购
       $.activityInfoList = $.oneTask.shoppingActivityVos || $.oneTask.brandMemberVos || $.oneTask.followShopVo || $.oneTask.browseShopVo;
       for (let j = 0; j < $.activityInfoList.length; j++) {
         $.oneActivityInfo = $.activityInfoList[j];
