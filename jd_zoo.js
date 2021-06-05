@@ -30,14 +30,16 @@ const $ = new Env('618动物联萌');
 const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 const pKHelpFlag = true;//是否PK助力  true 助力，false 不助力
-const pKHelpAuthorFlag = false;//是否助力作者PK  true 助力，false 不助力
+const pKHelpAuthorFlag = true;//是否助力作者PK  true 助力，false 不助力
 //IOS等用户直接用NobyDa的jd cookie
 let cookiesArr = [];
 $.cookie = '';
 $.inviteList = [];
-$.pkInviteList = [];
+$.pkInviteList = [
+];
 $.secretpInfo = {};
-$.innerPkInviteList = [];
+$.innerPkInviteList = [
+];
 if ($.isNode()) {
   Object.keys(jdCookieNode).forEach((item) => {
     cookiesArr.push(jdCookieNode[item])
@@ -86,11 +88,11 @@ if ($.isNode()) {
     }
   }
   let res = [], res2 = [], res3 = [];
-  res2 = await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json');
-  if (!res2) await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json')
+  res3 = await getAuthorShareCode('https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json');
+  //  if (!res3) await getAuthorShareCode('https://raw.githubusercontent.com/inoyna11/Write-files/master/shareCodes/pk1.json')
   if (new Date().getUTCHours() + 8 >= 9) {
     res = await getAuthorShareCode() || [];
-    res3 = await getAuthorShareCode('https://gitee.com/xr2021/share/raw/master/pk.json') || [];
+    res2 = await getAuthorShareCode('https://gitee.com/xr2021/share/raw/master/pk.json') || [];
   }
   if (pKHelpAuthorFlag) {
     $.innerPkInviteList = getRandomArrayElements([...$.innerPkInviteList, ...res, ...res2, ...res3], [...$.innerPkInviteList, ...res, ...res2, ...res3].length);
@@ -112,7 +114,6 @@ if ($.isNode()) {
       for (let i = 0; i < $.pkInviteList.length && pKHelpFlag && $.canHelp; i++) {
         console.log(`${$.UserName} 去助力PK码 ${$.pkInviteList[i]}`);
         $.pkInviteId = $.pkInviteList[i];
-        console.log($.pkInviteList);
         await takePostRequest('pkHelp');
         await $.wait(2000);
       }
@@ -206,24 +207,25 @@ async function zoo() {
             await $.wait(3000);
           }
         }
-      } else if ($.oneTask.taskType === 2 && $.oneTask.status === 1) {
-        console.log(`做任务：${$.oneTask.taskName};等待完成 (实际不会添加到购物车)`);
-        $.taskId = $.oneTask.taskId;
-        $.feedDetailInfo = {};
-        await takePostRequest('zoo_getFeedDetail');
-        let productList = $.feedDetailInfo.productInfoVos;
-        let needTime = Number($.feedDetailInfo.maxTimes) - Number($.feedDetailInfo.times);
-        for (let j = 0; j < productList.length && needTime > 0; j++) {
-          if (productList[j].status !== 1) {
-            continue;
-          }
-          $.taskToken = productList[j].taskToken;
-          console.log(`加购：${productList[j].skuName}`);
-          await takePostRequest('add_car');
-          await $.wait(1500);
-          needTime--;
-        }
       }
+      // else if ($.oneTask.taskType === 2 && $.oneTask.status === 1){
+      //   console.log(`做任务：${$.oneTask.taskName};等待完成 (实际不会添加到购物车)`);
+      //   $.taskId = $.oneTask.taskId;
+      //   $.feedDetailInfo = {};
+      //   await takePostRequest('zoo_getFeedDetail');
+      //   let productList = $.feedDetailInfo.productInfoVos;
+      //   let needTime = Number($.feedDetailInfo.maxTimes) - Number($.feedDetailInfo.times);
+      //   for (let j = 0; j < productList.length && needTime > 0; j++) {
+      //     if(productList[j].status !== 1){
+      //       continue;
+      //     }
+      //     $.taskToken = productList[j].taskToken;
+      //     console.log(`加购：${productList[j].skuName}`);
+      //     await takePostRequest('add_car');
+      //     await $.wait(1500);
+      //     needTime --;
+      //   }
+      // }
     }
     await $.wait(1000);
     await takePostRequest('zoo_getHomeData');
@@ -312,7 +314,7 @@ async function zoo() {
     if (!$.hotFlag) await takePostRequest('wxTaskDetail');
     for (let i = 0; i < $.wxTaskList.length; i++) {
       $.oneTask = $.wxTaskList[i];
-      //if ($.oneTask.taskType === 2 || $.oneTask.status !== 1) { continue; } //不做加购
+      if ($.oneTask.taskType === 2 || $.oneTask.status !== 1) { continue; } //不做加购
       $.activityInfoList = $.oneTask.shoppingActivityVos || $.oneTask.brandMemberVos || $.oneTask.followShopVo || $.oneTask.browseShopVo;
       for (let j = 0; j < $.activityInfoList.length; j++) {
         $.oneActivityInfo = $.activityInfoList[j];
@@ -851,11 +853,10 @@ function getRandomArrayElements(arr, count) {
   }
   return shuffled.slice(min);
 }
-function getAuthorShareCode(url) {
+function getAuthorShareCode(url = "https://raw.githubusercontent.com/indextank/myjd3/master/shareCodes/jd_zoo.json") {
   return new Promise(async resolve => {
     const options = {
-      "url": `${url}`,
-      //"url": `${url}?${new Date()}`,
+      "url": `${url}?${new Date()}`,
       "timeout": 10000,
       "headers": {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/87.0.4280.88"
