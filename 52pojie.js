@@ -94,7 +94,7 @@ function checkin() {
       } else if (response.statusCode == 403) {
         $.msg("吾爱破解", "", "服务器暂停签到 ⚠️")
       } else {
-        $.msg("吾爱破解", "", "脚本待更新 ‼️‼️")
+        $.msg("吾爱破解", "", response.statusCode + "-脚本待更新 ‼️‼️")
       }
     }
     $.done();
