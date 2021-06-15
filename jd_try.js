@@ -1,6 +1,6 @@
 /*
 京东价格保护：脚本更新地址 https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js
-脚本兼容: QuantumultX, Node.js 
+脚本兼容: QuantumultX, Node.js
 ⚠️ 非常耗时的脚本。最多可能执行半小时！
 每天最多关注300个商店，但用户商店关注上限为500个。
 请配合取关脚本试用，使用 jd_unsubscribe.js 提前取关至少250个商店确保京东试用脚本正常运行。
@@ -23,7 +23,7 @@ let allGoodList = []
 
 // default params
 $.pageSize = 12
-let cidsList =["家用电器", "手机数码", "电脑办公","美妆护肤", "生鲜美食","家居家装","食品饮料","服饰鞋包","母婴玩具"]
+let cidsList = ["家用电器", "手机数码", "电脑办公", "美妆护肤", "生鲜美食", "家居家装", "食品饮料", "服饰鞋包", "母婴玩具"]
 let typeList = ["普通试用", "闪电试用"]
 let goodFilters = "教程@软件@英语@大理@丽江@辅导@联通卡@培训@靓美@益生菌@备孕@哺乳@脚气@震动@阳具@云南旅游@旅游@飞机杯@卷尺@看房@鞋带@丰胸@课程培训@体验班@精品课@红参@益生元@御夫王@苗霸@北海游@购房@键盘膜@情趣内衣@种子@三元催化@男用喷剂@玉石@万向轮@档案袋@癣@中年@玉坠@老太太@妇女@私处@孕妇@卫生条@课@培训@阴道@生殖器@肛门@狐臭@洋娃娃@鱼饵@钓鱼@吊带@黑丝@婴儿@幼儿@娃娃@网课@网校@手机壳@钢化膜@车载充电器@网络课程@疣@避孕套@女纯棉@按键贴@背膜@后膜@背贴@贝尔思力@卡薇尔@三角裤@痔疮@神皂@美少女@纸尿裤@英语@俄语@四级@六级@四六级@在线网络@在线@阴道炎@宫颈@螺丝@延时@糜烂@和田玉@白玉@打底裤@手机膜@早早孕@增时@狗".split('@')
 let minPrice = 50
@@ -82,7 +82,7 @@ const typeMap = {
 
 			$.goodList = []
 			$.successList = []
-			if(allGoodList.length == 0){
+			if (allGoodList.length == 0) {
 				await getGoodList()
 			}
 			await filterGoodList()
@@ -96,10 +96,10 @@ const typeMap = {
 		}
 	}
 })()
-.catch((e) => {
-	console.log(`❗️ ${$.name} 运行错误！\n${e}`)
-	if (eval(jdDebug)) $.msg($.name, ``, `${e}`)
-}).finally(() => $.done())
+	.catch((e) => {
+		console.log(`❗️ ${$.name} 运行错误！\n${e}`)
+		if (eval(jdDebug)) $.msg($.name, ``, `${e}`)
+	}).finally(() => $.done())
 
 function requireConfig() {
 	return new Promise(resolve => {
@@ -113,7 +113,7 @@ function requireConfig() {
 					cookiesArr.push(jdCookieNode[item])
 				}
 			})
-			if (process.env.JD_DEBUG && process.env.JD_DEBUG === 'false') console.log = () => {};
+			if (process.env.JD_DEBUG && process.env.JD_DEBUG === 'false') console.log = () => { };
 		} else {
 			//IOS等用户直接用NobyDa的jd cookie
 			let cookiesData = $.getdata('CookiesJD') || "[]";
@@ -128,16 +128,16 @@ function requireConfig() {
 
 		if ($.isNode()) {
 			if (process.env.JD_TRY_CIDS_KEYS) {
-				cidsList = process.env.JD_TRY_CIDS_KEYS.split('@').filter(key=>{
+				cidsList = process.env.JD_TRY_CIDS_KEYS.split('@').filter(key => {
 					return Object.keys(cidsMap).includes(key)
 				})
 			}
 			if (process.env.JD_TRY_TYPE_KEYS) {
-				typeList = process.env.JD_TRY_CIDS_KEYS.split('@').filter(key=>{
+				typeList = process.env.JD_TRY_CIDS_KEYS.split('@').filter(key => {
 					return Object.keys(typeMap).includes(key)
 				})
 			}
-			if(process.env.JD_TRY_GOOD_FILTERS){
+			if (process.env.JD_TRY_GOOD_FILTERS) {
 				goodFilters = process.env.JD_TRY_GOOD_FILTERS.split('@')
 			}
 			if (process.env.JD_TRY_MIN_PRICE) {
@@ -221,7 +221,7 @@ async function filterGoodList() {
 		// 2. good 距离结束不到10min
 		// 3. good 的结束时间大于一天
 		// 4. good 的价格小于最小的限制
-		if (!good || good.endTime < now + 10 * 60  || good.endTime > oneMoreDay || good.jdPrice < minPrice) {
+		if (!good || good.endTime < now + 10 * 60 || good.endTime > oneMoreDay || good.jdPrice < minPrice) {
 			return false
 		}
 		for (let item of goodFilters) {
@@ -355,6 +355,7 @@ async function tryGoodList() {
 		// 关注完毕，即将试用
 		await doTry(good)
 	}
+	await $.wait(5000)
 }
 
 async function doTry(good) {
@@ -367,12 +368,12 @@ async function doTry(good) {
 					data = JSON.parse(data)
 					if (data.success) {
 						$.totalTry += 1
-						console.log(`🥳 ${good.id} 🛒${good.trialName.substr(0,15)}🛒 ${data.message}`)
+						console.log(`🥳 ${good.id} 🛒${good.trialName.substr(0, 15)}🛒 ${data.message}`)
 					} else if (data.code == '-131') { // 每日300个商品
 						$.stopMsg = data.message
 						$.running = false
 					} else {
-						console.log(`🤬 ${good.id} 🛒${good.trialName.substr(0,15)}🛒 ${JSON.stringify(data)}`)
+						console.log(`🤬 ${good.id} 🛒${good.trialName.substr(0, 15)}🛒 ${JSON.stringify(data)}`)
 					}
 				}
 			} catch (e) {
@@ -429,7 +430,7 @@ async function showMsg() {
 		$.msg($.name, ``, message, {
 			"open-url": 'https://try.m.jd.com/user'
 		})
-		if($.isNode()){
+		if ($.isNode()) {
 			await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName}`, message)
 		}
 	} else {
@@ -540,7 +541,7 @@ function Env(name, opts) {
 		}
 	}
 
-	return new(class {
+	return new (class {
 		constructor(name, opts) {
 			this.name = name
 			this.http = new Http(this)
@@ -593,7 +594,7 @@ function Env(name, opts) {
 			if (val) {
 				try {
 					json = JSON.parse(this.getdata(key))
-				} catch {}
+				} catch { }
 			}
 			return json
 		}
@@ -694,8 +695,8 @@ function Env(name, opts) {
 			path
 				.slice(0, -1)
 				.reduce((a, c, i) => (Object(a[c]) === a[c] ? a[c] : (a[c] = Math.abs(path[i + 1]) >> 0 === +path[i + 1] ? [] : {})), obj)[
-					path[path.length - 1]
-				] = value
+				path[path.length - 1]
+			] = value
 			return obj
 		}
 
@@ -778,7 +779,7 @@ function Env(name, opts) {
 			}
 		}
 
-		get(opts, callback = () => {}) {
+		get(opts, callback = () => { }) {
 			if (opts.headers) {
 				delete opts.headers['Content-Type']
 				delete opts.headers['Content-Length']
@@ -864,7 +865,7 @@ function Env(name, opts) {
 			}
 		}
 
-		post(opts, callback = () => {}) {
+		post(opts, callback = () => { }) {
 			// 如果指定了请求体, 但没指定`Content-Type`, 则自动生成
 			if (opts.body && opts.headers && !opts.headers['Content-Type']) {
 				opts.headers['Content-Type'] = 'application/x-www-form-urlencoded'

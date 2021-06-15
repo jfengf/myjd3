@@ -1,0 +1,153 @@
+version: "3"
+services:
+  jd_scripts1: # jd_RbuUwXHBNnJR / jd_fMRfXcJHjROT
+    image: aaron2397/jd_scripts
+    # 配置服务器资源约束。此例子中服务被限制为使用内存不超过200M以及cpu不超过 0.2（单核的20%）
+    # 经过实际测试，建议不低于200M
+    # deploy:
+    #   resources:
+    #     limits:
+    #       cpus: '0.2'
+    #       memory: 200M
+    restart: always
+    container_name: jd_RbuUwXHBNnJR
+    tty: true
+    volumes:
+      - ./crontab_list.sh:/scripts/docker/crontab_list.sh
+      - ./logs1:/scripts/logs
+      - .:/scripts/myjd3
+    environment:
+      # 2021-06-10添加cookie
+      - JD_COOKIE=pt_key=AAJgwcfhADAtMTDFjQ1Sm7qbp-n4v7GLFOplpWhPPp3m4Js0KFb_OxCoyhiDw4hXt2KcTSgwvFI; pt_pin=jd_RbuUwXHBNnJR;&pt_key=AAJgwgHGADAHzXxVDpiwfcaBi6tCMkyziHWBCiECgxNYMDQNr5NLibGK2zvSS-le_9LDs5uwV04; pt_pin=jd_fMRfXcJHjROT;
+      #钉钉机器人通知
+      - DD_BOT_TOKEN=1f0646e4ae50ace66c21fd35588c981c4bbe030187a7330cbfa544a93248a9b8
+      - DD_BOT_SECRET=SEC4a1f40c40ad16f3060e0c4f11ed1ad8dd28605da8f63bd62ddbc0384706d0ecd
+      #京东种豆得豆
+      - PLANT_BEAN_SHARECODES=7qol36k2wexalexopbwitsnlk7dlfaq6w3g7ooa@tcu2fa5tmlgnp7kr6656lap2soxi6oepe573m4a@bmiqsfq6pjgaux6emvmykdxamy@4vvbjlml6tdfdmupxpjymceethvrrhccs3kd2ui@4npkonnsy7xi2z3dkz5zl7dytucijlyfpo3mliq@cshk5bfjifz75j3sxlqcin52ywcqgxgmvmx65by
+      #京东农场
+      - FRUITSHARECODES=1e4d7e29cf584727a483b509a35b4735@7035c5fc71424e74bc58e5f39b1505b2@5633948454934afba0f459ae374de5a4@5252199465ce4cbc8d1b8637fb1d5df1@447c49d888ee4f339314b55b79de0c74@412aa69dda9b4c41967a25060c6d794a
+      #京喜农场
+      - JXNC_SHARECODES={"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":1}
+      # 闪购盲盒
+      - JDSGMH_SHARECODES=T0205KkcIkxckBO_WGiKyo1oCjVQmoaT5kRrbA@T024uvh2SRkQ9VHXPRvwlv8NcNb9CjVQmoaT5kRrbA@T0084qAiHhYeCjVQmoaT5kRrbA@T0205KkcAkVQqSKGVWOv0oV2CjVQmoaT5kRrbA@T0225KkcR08R8QCCIhrxkPRfJgCjVQmoaT5kRrbA@T0205KkcFmN7ozyEWmKu9ohuCjVQmoaT5kRrbA
+      #京东萌宠
+      # 例: PETSHARECODES=东东萌宠的互助码
+      - PETSHARECODES=MTE1NDAxNzcwMDAwMDAwMzg2Njk1OTc=@MTAxODc2NTEzOTAwMDAwMDAyMjUyNjQ5Nw==@MTAxODc2NTEzOTAwMDAwMDAyMTgwOTY2OQ==@MTE1NDAxNzYwMDAwMDAwMzg2Njk3MzU=@MTE1NDAxNzYwMDAwMDAwMzg2Njk3MzU=@MTEyMTY4MjgwMDAwMDAwNDk2NDc0MjU=
+      # 签到领现金好友互助码
+      - JD_CASH_SHARECODES=eU9YDr73A7tOiRyrlQlx@Jx4yZeu7Zvkm7G_RyXsU0ot2@f0ZmMuS1@eU9YLrf7Oop3hBeOjQFv@eU9Ya726Yqhz827Qz3BGhA@eU9YOpHQMJR1ixaPqQx3
+      # 宠汪汪的喂食数量
+      - JOY_FEED_COUNT=80
+      - JD_JOY_REWARD_NAME=500
+      #东东超市
+      # - SUPERMARKET_SHARECODES=
+      #兑换多少数量的京豆（20，或者1000京豆,或者其他奖品的文字）
+      # 例: MARKET_COIN_TO_BEANS=1000
+      - MARKET_COIN_TO_BEANS=1000
+      #如果设置了 RANDOM_DELAY_MAX ，则会启用随机延迟功能，延迟随机 0 到 RANDOM_DELAY_MAX-1 秒。如果不设置此项，则不使用延迟。
+      #并不是所有的脚本都会被启用延迟，因为有一些脚本需要整点触发。延迟的目的有两个，1是降低抢占cpu资源几率，2是降低检查风险（主要是1）
+      #填写数字，单位为秒，比如写为 RANDOM_DELAY_MAX=30  就是随机产生0到29之间的一个秒数，执行延迟的意思。
+      - RANDOM_DELAY_MAX=0
+      #使用自定义定任务追加默认任务之后，上面volumes挂载之后这里配置对应的文件名
+      - CUSTOM_LIST_FILE=crontab_list.sh
+      #单容器多账号自动互助
+      - ENABLE_AUTO_HELP=true
+      #建议填写完整脚本名,不完整的文件名可能导致其他脚本被禁用
+      #- DO_NOT_RUN_SCRIPTS=jd_family.js&jd_dreamFactory.js&jd_jxnc.js
+      # 喜马拉雅
+      - XMLY_SPEED_COOKIE=
+  jd_scripts2: # 诺咪兔 / jd_152055zny
+    image: aaron2397/jd_scripts
+    restart: always
+    container_name: 455979050-14287437
+    tty: true
+    volumes:
+      - ./crontab_list.sh:/scripts/docker/crontab_list.sh
+      - ./logs2:/scripts/logs
+      - .:/scripts/myjd3
+    environment:
+      # 2021-06-10添加cookie
+      - JD_COOKIE=pt_key=AAJgwcfrAECrMZZTjep9d9mu3jknHvm0f-sxPW1tO3FcekOM79zd_wQmPAYS-q8vdwUIyWV6P7ss4rKxt59TkOwljIXG_jYF; pt_pin=455979050-14287437;&pt_key=AAJgwgIcADCTXlTG6liwuEC1LG0hKcvLyKwIQlFPOO6_YEFniVs9vlBTlXEZZGdWV8oxRbjB1CQ; pt_pin=jd_7a84de20543eb;
+      #钉钉机器人通知
+      - DD_BOT_TOKEN=1f0646e4ae50ace66c21fd35588c981c4bbe030187a7330cbfa544a93248a9b8
+      - DD_BOT_SECRET=SEC4a1f40c40ad16f3060e0c4f11ed1ad8dd28605da8f63bd62ddbc0384706d0ecd
+      #京东种豆得豆
+      - PLANT_BEAN_SHARECODES=7qol36k2wexalexopbwitsnlk7dlfaq6w3g7ooa@tcu2fa5tmlgnp7kr6656lap2soxi6oepe573m4a@bmiqsfq6pjgaux6emvmykdxamy@4vvbjlml6tdfdmupxpjymceethvrrhccs3kd2ui@4npkonnsy7xi2z3dkz5zl7dytucijlyfpo3mliq@cshk5bfjifz75j3sxlqcin52ywcqgxgmvmx65by
+      #京东农场
+      - FRUITSHARECODES=1e4d7e29cf584727a483b509a35b4735@7035c5fc71424e74bc58e5f39b1505b2@5633948454934afba0f459ae374de5a4@5252199465ce4cbc8d1b8637fb1d5df1@447c49d888ee4f339314b55b79de0c74@412aa69dda9b4c41967a25060c6d794a
+      #京喜农场
+      - JXNC_SHARECODES={"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":1}
+      # 闪购盲盒
+      - JDSGMH_SHARECODES=T0205KkcIkxckBO_WGiKyo1oCjVQmoaT5kRrbA@T024uvh2SRkQ9VHXPRvwlv8NcNb9CjVQmoaT5kRrbA@T0084qAiHhYeCjVQmoaT5kRrbA@T0205KkcAkVQqSKGVWOv0oV2CjVQmoaT5kRrbA@T0225KkcR08R8QCCIhrxkPRfJgCjVQmoaT5kRrbA@T0205KkcFmN7ozyEWmKu9ohuCjVQmoaT5kRrbA
+      #京东萌宠
+      # 例: PETSHARECODES=东东萌宠的互助码
+      - PETSHARECODES=MTE1NDAxNzcwMDAwMDAwMzg2Njk1OTc=@MTAxODc2NTEzOTAwMDAwMDAyMjUyNjQ5Nw==@MTAxODc2NTEzOTAwMDAwMDAyMTgwOTY2OQ==@MTE1NDAxNzYwMDAwMDAwMzg2Njk3MzU=@MTE1NDAxNzYwMDAwMDAwMzg2Njk3MzU=@MTEyMTY4MjgwMDAwMDAwNDk2NDc0MjU=
+      # 签到领现金好友互助码
+      - JD_CASH_SHARECODES=eU9YDr73A7tOiRyrlQlx@Jx4yZeu7Zvkm7G_RyXsU0ot2@f0ZmMuS1@eU9YLrf7Oop3hBeOjQFv@eU9Ya726Yqhz827Qz3BGhA@eU9YOpHQMJR1ixaPqQx3
+      # 宠汪汪的喂食数量
+      - JOY_FEED_COUNT=80
+      - JD_JOY_REWARD_NAME=500
+      #东东超市
+      # - SUPERMARKET_SHARECODES=
+      #兑换多少数量的京豆（20，或者1000京豆,或者其他奖品的文字）
+      # 例: MARKET_COIN_TO_BEANS=1000
+      - MARKET_COIN_TO_BEANS=1000
+      #如果设置了 RANDOM_DELAY_MAX ，则会启用随机延迟功能，延迟随机 0 到 RANDOM_DELAY_MAX-1 秒。如果不设置此项，则不使用延迟。
+      #并不是所有的脚本都会被启用延迟，因为有一些脚本需要整点触发。延迟的目的有两个，1是降低抢占cpu资源几率，2是降低检查风险（主要是1）
+      #填写数字，单位为秒，比如写为 RANDOM_DELAY_MAX=30  就是随机产生0到29之间的一个秒数，执行延迟的意思。
+      - RANDOM_DELAY_MAX=0
+      #使用自定义定任务追加默认任务之后，上面volumes挂载之后这里配置对应的文件名
+      - CUSTOM_LIST_FILE=crontab_list.sh
+      #单容器多账号自动互助
+      - ENABLE_AUTO_HELP=true
+      #建议填写完整脚本名,不完整的文件名可能导致其他脚本被禁用
+      #- DO_NOT_RUN_SCRIPTS=jd_family.js&jd_dreamFactory.js&jd_jxnc.js
+      # 喜马拉雅
+      - XMLY_SPEED_COOKIE=1&_device=android&0f518123-328f-3ea5-a440-3f4d12b209e4&2.2.12;1&_token=130228606&A8377790240C2FA4752050AC0C1C610DA5D249E54DA37FF1E4F1BACAF5CB299091152005C4D485M53f4fde1EF980F9_;channel=and-d5;impl=com.ximalaya.ting.lite;osversion=27;device_model=16th+Plus;XUM=kPBSbEtr;XIM=;c-oper=%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8;net-mode=WIFI;res=1080%2C2160;NSUP=;AID=J0hfWdtZtrU=;manufacturer=Meizu;XD=j9aKIw3kBagTC/IhreiRUiZtJSu1TcmG3o8ox88UOnnUWR/aa/3WK2CpeLGOlpJRSDbly/V0V1QIjRcqhwnzjlD5aX2Z78p302SxvDxGAQaxmT22zfVWseDAHq8q3+UPeeXS7p0giR/fCoupMmmi+Q==;umid=ai937e3f6035c959e41a50c45386e63bfe;xm_grade=1000;oaid=00000000000000000000000000000000;appVersion=2.2.12.3;x-abtest-bucketIds=204899%2C317564%2C317476%2C317513;domain=.ximalaya.com;path=/;
+  jd_scripts3: # lman87 / 变速箱2019
+    image: aaron2397/jd_scripts
+    restart: always
+    container_name: lman87
+    tty: true
+    volumes:
+      - ./crontab_list.sh:/scripts/docker/crontab_list.sh
+      - ./logs3:/scripts/logs
+      - .:/scripts/myjd3
+    environment:
+      # 2021-06-10添加cookie
+      - JD_COOKIE=pt_key=AAJgwgDrADBgX92SDkWjWkqYuqPMmdzkhmsAL1eFdQZtu0BzcMT21lqH0raPEjEIdRCD4OUNo8A; pt_pin=lman87;&pt_key=AAJgwgDIADBYe4gCOpu7haPBiSnigDz1F6TO_BaKTpB1Tt7n04AXb18dG9rbt_VnNtfTMxG5TnU; pt_pin=jd_rkylFaEIkvBL;
+      #钉钉机器人通知
+      - DD_BOT_TOKEN=1f0646e4ae50ace66c21fd35588c981c4bbe030187a7330cbfa544a93248a9b8
+      - DD_BOT_SECRET=SEC4a1f40c40ad16f3060e0c4f11ed1ad8dd28605da8f63bd62ddbc0384706d0ecd
+      #京东种豆得豆
+      - PLANT_BEAN_SHARECODES=7qol36k2wexalexopbwitsnlk7dlfaq6w3g7ooa@tcu2fa5tmlgnp7kr6656lap2soxi6oepe573m4a@bmiqsfq6pjgaux6emvmykdxamy@4vvbjlml6tdfdmupxpjymceethvrrhccs3kd2ui@4npkonnsy7xi2z3dkz5zl7dytucijlyfpo3mliq@cshk5bfjifz75j3sxlqcin52ywcqgxgmvmx65by
+      #京东农场
+      - FRUITSHARECODES=1e4d7e29cf584727a483b509a35b4735@7035c5fc71424e74bc58e5f39b1505b2@5633948454934afba0f459ae374de5a4@5252199465ce4cbc8d1b8637fb1d5df1@447c49d888ee4f339314b55b79de0c74@412aa69dda9b4c41967a25060c6d794a
+      #京喜农场
+      - JXNC_SHARECODES={"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":1}
+      # 闪购盲盒
+      - JDSGMH_SHARECODES=T0205KkcIkxckBO_WGiKyo1oCjVQmoaT5kRrbA@T024uvh2SRkQ9VHXPRvwlv8NcNb9CjVQmoaT5kRrbA@T0084qAiHhYeCjVQmoaT5kRrbA@T0205KkcAkVQqSKGVWOv0oV2CjVQmoaT5kRrbA@T0225KkcR08R8QCCIhrxkPRfJgCjVQmoaT5kRrbA@T0205KkcFmN7ozyEWmKu9ohuCjVQmoaT5kRrbA
+      #京东萌宠
+      # 例: PETSHARECODES=东东萌宠的互助码
+      - PETSHARECODES=MTE1NDAxNzcwMDAwMDAwMzg2Njk1OTc=@MTAxODc2NTEzOTAwMDAwMDAyMjUyNjQ5Nw==@MTAxODc2NTEzOTAwMDAwMDAyMTgwOTY2OQ==@MTE1NDAxNzYwMDAwMDAwMzg2Njk3MzU=@MTE1NDAxNzYwMDAwMDAwMzg2Njk3MzU=@MTEyMTY4MjgwMDAwMDAwNDk2NDc0MjU=
+      # 签到领现金好友互助码
+      - JD_CASH_SHARECODES=eU9YDr73A7tOiRyrlQlx@Jx4yZeu7Zvkm7G_RyXsU0ot2@f0ZmMuS1@eU9YLrf7Oop3hBeOjQFv@eU9Ya726Yqhz827Qz3BGhA@eU9YOpHQMJR1ixaPqQx3
+      # 宠汪汪的喂食数量
+      - JOY_FEED_COUNT=80
+      - JD_JOY_REWARD_NAME=500
+      #东东超市
+      # - SUPERMARKET_SHARECODES=
+      #兑换多少数量的京豆（20，或者1000京豆,或者其他奖品的文字）
+      # 例: MARKET_COIN_TO_BEANS=1000
+      - MARKET_COIN_TO_BEANS=1000
+      #如果设置了 RANDOM_DELAY_MAX ，则会启用随机延迟功能，延迟随机 0 到 RANDOM_DELAY_MAX-1 秒。如果不设置此项，则不使用延迟。
+      #并不是所有的脚本都会被启用延迟，因为有一些脚本需要整点触发。延迟的目的有两个，1是降低抢占cpu资源几率，2是降低检查风险（主要是1）
+      #填写数字，单位为秒，比如写为 RANDOM_DELAY_MAX=30  就是随机产生0到29之间的一个秒数，执行延迟的意思。
+      - RANDOM_DELAY_MAX=0
+      #使用自定义定任务追加默认任务之后，上面volumes挂载之后这里配置对应的文件名
+      - CUSTOM_LIST_FILE=crontab_list.sh
+      #单容器多账号自动互助
+      - ENABLE_AUTO_HELP=true
+      #建议填写完整脚本名,不完整的文件名可能导致其他脚本被禁用
+      #- DO_NOT_RUN_SCRIPTS=jd_family.js&jd_dreamFactory.js&jd_jxnc.js
+      # 喜马拉雅
+      - XMLY_SPEED_COOKIE=

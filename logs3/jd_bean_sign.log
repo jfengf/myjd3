@@ -1,0 +1,115 @@
+
+🔔京东多合一签到, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：6/15/2021, 7:07:00 AM=====================
+
+检测到您当前网络环境不能访问外网,将使用jsdelivr CDN下载JD_DailyBonus.js文件
+JD_DailyBonus.js文件  CDN刷新成功
+JD_DailyBonus.js文件下载完毕
+
+
+*****************开始京东账号1 lman87京豆签到*******************
+
+开始替换变量
+替换变量完毕
+
+开始执行 京东多合一签到 签到，请稍等...
+
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'request'
+Require stack:
+- /root/JD_DailyBonus.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at /root/JD_DailyBonus.js:1844:23
+    at nobyda (/root/JD_DailyBonus.js:1853:5)
+    at Object.<anonymous> (/root/JD_DailyBonus.js:104:15)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/JD_DailyBonus.js' ]
+}
+京东签到脚本执行异常:Error: Command failed: /usr/local/bin/node ./JD_DailyBonus.js >> ./result.txt
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'request'
+Require stack:
+- /root/JD_DailyBonus.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at /root/JD_DailyBonus.js:1844:23
+    at nobyda (/root/JD_DailyBonus.js:1853:5)
+    at Object.<anonymous> (/root/JD_DailyBonus.js:104:15)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/JD_DailyBonus.js' ]
+}
+
+*****************开始京东账号2 jd_rkylFaEIkvBL京豆签到*******************
+
+开始替换变量
+替换变量完毕
+
+开始执行 京东多合一签到 签到，请稍等...
+
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'request'
+Require stack:
+- /root/JD_DailyBonus.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at /root/JD_DailyBonus.js:1844:23
+    at nobyda (/root/JD_DailyBonus.js:1853:5)
+    at Object.<anonymous> (/root/JD_DailyBonus.js:104:15)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/JD_DailyBonus.js' ]
+}
+京东签到脚本执行异常:Error: Command failed: /usr/local/bin/node ./JD_DailyBonus.js >> ./result.txt
+internal/modules/cjs/loader.js:888
+  throw err;
+  ^
+
+Error: Cannot find module 'request'
+Require stack:
+- /root/JD_DailyBonus.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+    at Module.require (internal/modules/cjs/loader.js:957:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at /root/JD_DailyBonus.js:1844:23
+    at nobyda (/root/JD_DailyBonus.js:1853:5)
+    at Object.<anonymous> (/root/JD_DailyBonus.js:104:15)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/root/JD_DailyBonus.js' ]
+}
+
+
+🔔京东多合一签到, 结束! 🕛 34.609 秒
+

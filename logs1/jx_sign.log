@@ -1,0 +1,152 @@
+Jun 14 00:30:00 
+Jun 14 00:30:00 ?京喜签到, 开始!
+Jun 14 00:30:00 
+Jun 14 00:30:00 ?京喜签到, 开始!
+Jun 14 00:30:00 您的cookie选择的是用&隔开
+Jun 14 00:30:00 
+Jun 14 00:30:00 
+Jun 14 00:30:00 ====================共有2个京东账号Cookie=========
+Jun 14 00:30:00 
+Jun 14 00:30:00 您的cookie选择的是用&隔开
+Jun 14 00:30:00 
+Jun 14 00:30:00 
+Jun 14 00:30:00 ====================共有2个京东账号Cookie=========
+Jun 14 00:30:00 
+Jun 14 00:30:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 12:30:00 AM=====================
+Jun 14 00:30:00 
+Jun 14 00:30:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 12:30:00 AM=====================
+Jun 14 00:30:00 
+Jun 14 00:30:00 
+Jun 14 00:30:00 ******开始【京东账号1】jd_RbuUwXHBNnJR*********
+Jun 14 00:30:00 
+Jun 14 00:30:00 签到成功，获得9金币，已签到6天
+Jun 14 00:30:00 
+Jun 14 00:30:00 ******开始【京东账号1】jd_RbuUwXHBNnJR*********
+Jun 14 00:30:00 
+Jun 14 00:30:00 
+Jun 14 00:30:00 ?京喜签到, 错误!
+Jun 14 00:30:00 TypeError: data.data.tasks is not iterable
+Jun 14 00:30:00     at /scripts/myjd3/jx_sign.js:121:38
+Jun 14 00:30:00     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/myjd3/jx_sign.js:315:4773)
+Jun 14 00:30:00     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 00:30:00 今日已签到
+Jun 14 00:30:01 任务完成失败，错误信息not sign
+Jun 14 00:30:01 京东账号1jd_RbuUwXHBNnJR
+Jun 14 00:30:01 本次运行获得金币9,现金0
+Jun 14 00:30:01 
+Jun 14 00:30:01 ?京喜签到, 错误!
+Jun 14 00:30:01 TypeError: data.data.tasks is not iterable
+Jun 14 00:30:01     at /scripts/myjd3/jx_sign.js:121:38
+Jun 14 00:30:01     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/myjd3/jx_sign.js:315:4773)
+Jun 14 00:30:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 00:30:01 
+Jun 14 00:30:01 ******开始【京东账号2】jd_fMRfXcJHjROT*********
+Jun 14 00:30:01 
+Jun 14 00:30:01 签到成功，获得8金币，已签到5天
+Jun 14 00:30:01 任务完成失败，错误信息not sign
+Jun 14 00:30:01 京东账号1jd_RbuUwXHBNnJR
+Jun 14 00:30:01 本次运行获得金币0,现金0
+Jun 14 00:30:01 
+Jun 14 00:30:01 ******开始【京东账号2】jd_fMRfXcJHjROT*********
+Jun 14 00:30:01 
+Jun 14 00:30:01 
+Jun 14 00:30:01 ?京喜签到, 错误!
+Jun 14 00:30:01 TypeError: data.data.tasks is not iterable
+Jun 14 00:30:01     at /scripts/myjd3/jx_sign.js:121:38
+Jun 14 00:30:01     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/myjd3/jx_sign.js:315:4773)
+Jun 14 00:30:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 00:30:01 任务完成失败，错误信息not sign
+Jun 14 00:30:01 京东账号2jd_fMRfXcJHjROT
+Jun 14 00:30:01 本次运行获得金币8,现金0
+Jun 14 00:30:01 
+Jun 14 00:30:01 ?京喜签到, 结束! ? 0.986 秒
+Jun 14 00:30:01 
+Jun 14 00:30:01 今日已签到
+Jun 14 00:30:01 
+Jun 14 00:30:01 ?京喜签到, 错误!
+Jun 14 00:30:01 TypeError: data.data.tasks is not iterable
+Jun 14 00:30:01     at /scripts/myjd3/jx_sign.js:121:38
+Jun 14 00:30:01     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/myjd3/jx_sign.js:315:4773)
+Jun 14 00:30:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 00:30:01 任务完成失败，错误信息not sign
+Jun 14 00:30:01 京东账号2jd_fMRfXcJHjROT
+Jun 14 00:30:01 本次运行获得金币0,现金0
+Jun 14 00:30:01 
+Jun 14 00:30:01 ?京喜签到, 结束! ? 1.161 秒
+Jun 14 00:30:01 
+Jun 15 00:30:00 
+Jun 15 00:30:00 ?京喜签到, 开始!
+Jun 15 00:30:00 
+Jun 15 00:30:00 ?京喜签到, 开始!
+Jun 15 00:30:01 您的cookie选择的是用&隔开
+Jun 15 00:30:01 
+Jun 15 00:30:01 您的cookie选择的是用&隔开
+Jun 15 00:30:01 
+Jun 15 00:30:01 
+Jun 15 00:30:01 ====================共有2个京东账号Cookie=========
+Jun 15 00:30:01 
+Jun 15 00:30:01 
+Jun 15 00:30:01 ====================共有2个京东账号Cookie=========
+Jun 15 00:30:01 
+Jun 15 00:30:01 ==================脚本执行- 北京时间(UTC+8)：6/15/2021, 12:30:01 AM=====================
+Jun 15 00:30:01 
+Jun 15 00:30:01 ==================脚本执行- 北京时间(UTC+8)：6/15/2021, 12:30:01 AM=====================
+Jun 15 00:30:01 
+Jun 15 00:30:01 
+Jun 15 00:30:01 ******开始【京东账号1】jd_RbuUwXHBNnJR*********
+Jun 15 00:30:01 
+Jun 15 00:30:01 
+Jun 15 00:30:01 ******开始【京东账号1】jd_RbuUwXHBNnJR*********
+Jun 15 00:30:01 
+Jun 15 00:30:01 今日已签到
+Jun 15 00:30:01 签到成功，获得10金币，已签到7天
+Jun 15 00:30:01 
+Jun 15 00:30:01 ?京喜签到, 错误!
+Jun 15 00:30:01 TypeError: data.data.tasks is not iterable
+Jun 15 00:30:01     at /scripts/myjd3/jx_sign.js:121:38
+Jun 15 00:30:01     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/myjd3/jx_sign.js:315:4773)
+Jun 15 00:30:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 15 00:30:01 
+Jun 15 00:30:01 ?京喜签到, 错误!
+Jun 15 00:30:01 TypeError: data.data.tasks is not iterable
+Jun 15 00:30:01     at /scripts/myjd3/jx_sign.js:121:38
+Jun 15 00:30:01     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/myjd3/jx_sign.js:315:4773)
+Jun 15 00:30:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 15 00:30:01 任务完成失败，错误信息do ing
+Jun 15 00:30:01 京东账号1jd_RbuUwXHBNnJR
+Jun 15 00:30:01 本次运行获得金币10,现金0
+Jun 15 00:30:01 任务完成失败，错误信息not sign
+Jun 15 00:30:01 京东账号1jd_RbuUwXHBNnJR
+Jun 15 00:30:01 本次运行获得金币0,现金0
+Jun 15 00:30:01 
+Jun 15 00:30:01 ******开始【京东账号2】jd_fMRfXcJHjROT*********
+Jun 15 00:30:01 
+Jun 15 00:30:01 
+Jun 15 00:30:01 ******开始【京东账号2】jd_fMRfXcJHjROT*********
+Jun 15 00:30:01 
+Jun 15 00:30:01 今日已签到
+Jun 15 00:30:01 签到成功，获得9金币，已签到6天
+Jun 15 00:30:01 
+Jun 15 00:30:01 ?京喜签到, 错误!
+Jun 15 00:30:01 TypeError: data.data.tasks is not iterable
+Jun 15 00:30:01     at /scripts/myjd3/jx_sign.js:121:38
+Jun 15 00:30:01     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/myjd3/jx_sign.js:315:4773)
+Jun 15 00:30:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 15 00:30:01 
+Jun 15 00:30:01 ?京喜签到, 错误!
+Jun 15 00:30:01 TypeError: data.data.tasks is not iterable
+Jun 15 00:30:01     at /scripts/myjd3/jx_sign.js:121:38
+Jun 15 00:30:01     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/myjd3/jx_sign.js:315:4773)
+Jun 15 00:30:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 15 00:30:01 任务完成失败，错误信息do ing
+Jun 15 00:30:01 京东账号2jd_fMRfXcJHjROT
+Jun 15 00:30:01 本次运行获得金币0,现金0
+Jun 15 00:30:01 
+Jun 15 00:30:01 ?京喜签到, 结束! ? 0.639 秒
+Jun 15 00:30:01 
+Jun 15 00:30:01 任务完成失败，错误信息not sign
+Jun 15 00:30:01 京东账号2jd_fMRfXcJHjROT
+Jun 15 00:30:01 本次运行获得金币9,现金0
+Jun 15 00:30:01 
+Jun 15 00:30:01 ?京喜签到, 结束! ? 0.687 秒
+Jun 15 00:30:01 

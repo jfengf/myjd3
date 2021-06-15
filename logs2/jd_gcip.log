@@ -1,0 +1,384 @@
+Jun 14 18:00:00 
+Jun 14 18:00:00 🔔柠檬特物国创IP, 开始!
+Jun 14 18:00:00 您的cookie选择的是用&隔开
+Jun 14 18:00:00 
+Jun 14 18:00:00 
+Jun 14 18:00:00 ====================共有2个京东账号Cookie=========
+Jun 14 18:00:00 
+Jun 14 18:00:00 
+Jun 14 18:00:00 🔔柠檬特物国创IP, 开始!
+Jun 14 18:00:00 您的cookie选择的是用&隔开
+Jun 14 18:00:00 
+Jun 14 18:00:00 
+Jun 14 18:00:00 ====================共有2个京东账号Cookie=========
+Jun 14 18:00:00 
+Jun 14 18:00:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 6:00:00 PM=====================
+Jun 14 18:00:00 
+Jun 14 18:00:00 
+Jun 14 18:00:00 ******开始【京东账号1】455979050-14287437*********
+Jun 14 18:00:00 
+Jun 14 18:00:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 6:00:00 PM=====================
+Jun 14 18:00:00 
+Jun 14 18:00:00 
+Jun 14 18:00:00 ******开始【京东账号1】455979050-14287437*********
+Jun 14 18:00:00 
+Jun 14 18:00:00 {
+Jun 14 18:00:00   code: '0',
+Jun 14 18:00:00   data: {
+Jun 14 18:00:00     success: true,
+Jun 14 18:00:00     bizCode: '4001',
+Jun 14 18:00:00     bizMsg: '不在当前活动时间范围内',
+Jun 14 18:00:00     result: null
+Jun 14 18:00:00   }
+Jun 14 18:00:00 }
+Jun 14 18:00:00 
+Jun 14 18:00:00 ❗️柠檬特物国创IP, 错误!
+Jun 14 18:00:00 TypeError: Cannot read property 'userAwardInfo' of null
+Jun 14 18:00:00     at /scripts/myjd3/jd_gcip.js:236:32
+Jun 14 18:00:00     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 18:00:00     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 18:00:00 {
+Jun 14 18:00:00   code: '0',
+Jun 14 18:00:00   data: {
+Jun 14 18:00:00     success: true,
+Jun 14 18:00:00     bizCode: '4001',
+Jun 14 18:00:00     bizMsg: '不在当前活动时间范围内',
+Jun 14 18:00:00     result: null
+Jun 14 18:00:00   }
+Jun 14 18:00:00 }
+Jun 14 18:00:00 
+Jun 14 18:00:00 ❗️柠檬特物国创IP, 错误!
+Jun 14 18:00:00 TypeError: Cannot read property 'userAwardInfo' of null
+Jun 14 18:00:00     at /scripts/myjd3/jd_gcip.js:236:32
+Jun 14 18:00:00     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 18:00:00     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 18:00:01 {
+Jun 14 18:00:01   code: '0',
+Jun 14 18:00:01   data: {
+Jun 14 18:00:01     success: true,
+Jun 14 18:00:01     bizCode: 'TK000',
+Jun 14 18:00:01     bizMsg: '任务成功',
+Jun 14 18:00:01     result: {
+Jun 14 18:00:01       usedScore: 1800,
+Jun 14 18:00:01       userDrawNum: 0,
+Jun 14 18:00:01       rewardComponent: [Object],
+Jun 14 18:00:01       userAwardInfo: [Object],
+Jun 14 18:00:01       waterMarkCode: 'c0ce6d383f59b37751b35f3566070945'
+Jun 14 18:00:01     }
+Jun 14 18:00:01   }
+Jun 14 18:00:01 }
+Jun 14 18:00:01 
+Jun 14 18:00:01 ******开始【京东账号2】jd_7a84de20543eb*********
+Jun 14 18:00:01 
+Jun 14 18:00:01 {
+Jun 14 18:00:01   code: '0',
+Jun 14 18:00:01   data: {
+Jun 14 18:00:01     success: true,
+Jun 14 18:00:01     bizCode: 'TK1703',
+Jun 14 18:00:01     bizMsg: '积分不足',
+Jun 14 18:00:01     result: {
+Jun 14 18:00:01       usedScore: null,
+Jun 14 18:00:01       userDrawNum: 0,
+Jun 14 18:00:01       rewardComponent: null,
+Jun 14 18:00:01       userAwardInfo: null,
+Jun 14 18:00:01       waterMarkCode: 'c0ce6d383f59b37751b35f3566070945'
+Jun 14 18:00:01     }
+Jun 14 18:00:01   }
+Jun 14 18:00:01 }
+Jun 14 18:00:01 
+Jun 14 18:00:01 ❗️柠檬特物国创IP, 错误!
+Jun 14 18:00:01 TypeError: Cannot read property 'beanNum' of null
+Jun 14 18:00:01     at /scripts/myjd3/jd_gcip.js:271:46
+Jun 14 18:00:01     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 18:00:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 18:00:01 
+Jun 14 18:00:01 ******开始【京东账号2】jd_7a84de20543eb*********
+Jun 14 18:00:01 
+Jun 14 18:00:01 {
+Jun 14 18:00:01   code: '0',
+Jun 14 18:00:01   data: {
+Jun 14 18:00:01     success: true,
+Jun 14 18:00:01     bizCode: '4001',
+Jun 14 18:00:01     bizMsg: '不在当前活动时间范围内',
+Jun 14 18:00:01     result: null
+Jun 14 18:00:01   }
+Jun 14 18:00:01 }
+Jun 14 18:00:01 
+Jun 14 18:00:01 ❗️柠檬特物国创IP, 错误!
+Jun 14 18:00:01 TypeError: Cannot read property 'userAwardInfo' of null
+Jun 14 18:00:01     at /scripts/myjd3/jd_gcip.js:236:32
+Jun 14 18:00:01     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 18:00:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 18:00:01 {
+Jun 14 18:00:01   code: '0',
+Jun 14 18:00:01   data: {
+Jun 14 18:00:01     success: true,
+Jun 14 18:00:01     bizCode: '4001',
+Jun 14 18:00:01     bizMsg: '不在当前活动时间范围内',
+Jun 14 18:00:01     result: null
+Jun 14 18:00:01   }
+Jun 14 18:00:01 }
+Jun 14 18:00:01 
+Jun 14 18:00:01 ❗️柠檬特物国创IP, 错误!
+Jun 14 18:00:01 TypeError: Cannot read property 'userAwardInfo' of null
+Jun 14 18:00:01     at /scripts/myjd3/jd_gcip.js:236:32
+Jun 14 18:00:01     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 18:00:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 18:00:01 {
+Jun 14 18:00:01   code: '0',
+Jun 14 18:00:01   data: {
+Jun 14 18:00:01     success: true,
+Jun 14 18:00:01     bizCode: 'TK1703',
+Jun 14 18:00:01     bizMsg: '积分不足',
+Jun 14 18:00:01     result: {
+Jun 14 18:00:01       usedScore: null,
+Jun 14 18:00:01       userDrawNum: 0,
+Jun 14 18:00:01       rewardComponent: null,
+Jun 14 18:00:01       userAwardInfo: null,
+Jun 14 18:00:01       waterMarkCode: '24b48b969ee6f3812727adaacb7263c6'
+Jun 14 18:00:01     }
+Jun 14 18:00:01   }
+Jun 14 18:00:01 }
+Jun 14 18:00:01 
+Jun 14 18:00:01 ❗️柠檬特物国创IP, 错误!
+Jun 14 18:00:01 TypeError: Cannot read property 'beanNum' of null
+Jun 14 18:00:01     at /scripts/myjd3/jd_gcip.js:271:46
+Jun 14 18:00:01     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 18:00:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 18:00:01 
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供server酱的SCKEY，取消微信推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 {
+Jun 14 18:00:01   code: '0',
+Jun 14 18:00:01   data: {
+Jun 14 18:00:01     success: true,
+Jun 14 18:00:01     bizCode: 'TK000',
+Jun 14 18:00:01     bizMsg: '任务成功',
+Jun 14 18:00:01     result: {
+Jun 14 18:00:01       usedScore: 1800,
+Jun 14 18:00:01       userDrawNum: 0,
+Jun 14 18:00:01       rewardComponent: [Object],
+Jun 14 18:00:01       userAwardInfo: [Object],
+Jun 14 18:00:01       waterMarkCode: '24b48b969ee6f3812727adaacb7263c6'
+Jun 14 18:00:01     }
+Jun 14 18:00:01   }
+Jun 14 18:00:01 }
+Jun 14 18:00:01 
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供server酱的SCKEY，取消微信推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jun 14 18:00:01 
+Jun 14 18:00:01 钉钉发送通知消息成功🎉。
+Jun 14 18:00:01 
+Jun 14 18:00:01 
+Jun 14 18:00:01 🔔柠檬特物国创IP, 结束! 🕛 0.925 秒
+Jun 14 18:00:01 
+Jun 14 18:00:01 钉钉发送通知消息成功🎉。
+Jun 14 18:00:01 
+Jun 14 18:00:01 
+Jun 14 18:00:01 🔔柠檬特物国创IP, 结束! 🕛 0.947 秒
+Jun 14 18:00:01 
+Jun 14 23:00:00 
+Jun 14 23:00:00 🔔柠檬特物国创IP, 开始!
+Jun 14 23:00:00 您的cookie选择的是用&隔开
+Jun 14 23:00:00 
+Jun 14 23:00:00 
+Jun 14 23:00:00 ====================共有2个京东账号Cookie=========
+Jun 14 23:00:00 
+Jun 14 23:00:00 
+Jun 14 23:00:00 🔔柠檬特物国创IP, 开始!
+Jun 14 23:00:00 您的cookie选择的是用&隔开
+Jun 14 23:00:00 
+Jun 14 23:00:00 
+Jun 14 23:00:00 ====================共有2个京东账号Cookie=========
+Jun 14 23:00:00 
+Jun 14 23:00:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 11:00:00 PM=====================
+Jun 14 23:00:00 
+Jun 14 23:00:00 
+Jun 14 23:00:00 ******开始【京东账号1】455979050-14287437*********
+Jun 14 23:00:00 
+Jun 14 23:00:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 11:00:00 PM=====================
+Jun 14 23:00:00 
+Jun 14 23:00:00 
+Jun 14 23:00:00 ******开始【京东账号1】455979050-14287437*********
+Jun 14 23:00:00 
+Jun 14 23:00:00 {
+Jun 14 23:00:00   code: '0',
+Jun 14 23:00:00   data: {
+Jun 14 23:00:00     success: true,
+Jun 14 23:00:00     bizCode: '4001',
+Jun 14 23:00:00     bizMsg: '不在当前活动时间范围内',
+Jun 14 23:00:00     result: null
+Jun 14 23:00:00   }
+Jun 14 23:00:00 }
+Jun 14 23:00:00 
+Jun 14 23:00:00 ❗️柠檬特物国创IP, 错误!
+Jun 14 23:00:00 TypeError: Cannot read property 'userAwardInfo' of null
+Jun 14 23:00:00     at /scripts/myjd3/jd_gcip.js:236:32
+Jun 14 23:00:00     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 23:00:00     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 23:00:00 {
+Jun 14 23:00:00   code: '0',
+Jun 14 23:00:00   data: {
+Jun 14 23:00:00     success: true,
+Jun 14 23:00:00     bizCode: '4001',
+Jun 14 23:00:00     bizMsg: '不在当前活动时间范围内',
+Jun 14 23:00:00     result: null
+Jun 14 23:00:00   }
+Jun 14 23:00:00 }
+Jun 14 23:00:00 
+Jun 14 23:00:00 ❗️柠檬特物国创IP, 错误!
+Jun 14 23:00:00 TypeError: Cannot read property 'userAwardInfo' of null
+Jun 14 23:00:00     at /scripts/myjd3/jd_gcip.js:236:32
+Jun 14 23:00:00     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 23:00:00     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 23:00:00 {
+Jun 14 23:00:00   code: '0',
+Jun 14 23:00:00   data: {
+Jun 14 23:00:00     success: true,
+Jun 14 23:00:00     bizCode: 'TK1703',
+Jun 14 23:00:00     bizMsg: '积分不足',
+Jun 14 23:00:00     result: {
+Jun 14 23:00:00       usedScore: null,
+Jun 14 23:00:00       userDrawNum: 0,
+Jun 14 23:00:00       rewardComponent: null,
+Jun 14 23:00:00       userAwardInfo: null,
+Jun 14 23:00:00       waterMarkCode: 'c0ce6d383f59b37751b35f3566070945'
+Jun 14 23:00:00     }
+Jun 14 23:00:00   }
+Jun 14 23:00:00 }
+Jun 14 23:00:00 
+Jun 14 23:00:00 ❗️柠檬特物国创IP, 错误!
+Jun 14 23:00:00 TypeError: Cannot read property 'beanNum' of null
+Jun 14 23:00:00     at /scripts/myjd3/jd_gcip.js:271:46
+Jun 14 23:00:00     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 23:00:00     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 23:00:00 
+Jun 14 23:00:00 ******开始【京东账号2】jd_7a84de20543eb*********
+Jun 14 23:00:00 
+Jun 14 23:00:00 {
+Jun 14 23:00:00   code: '0',
+Jun 14 23:00:00   data: {
+Jun 14 23:00:00     success: true,
+Jun 14 23:00:00     bizCode: 'TK1703',
+Jun 14 23:00:00     bizMsg: '积分不足',
+Jun 14 23:00:00     result: {
+Jun 14 23:00:00       usedScore: null,
+Jun 14 23:00:00       userDrawNum: 0,
+Jun 14 23:00:00       rewardComponent: null,
+Jun 14 23:00:00       userAwardInfo: null,
+Jun 14 23:00:00       waterMarkCode: 'c0ce6d383f59b37751b35f3566070945'
+Jun 14 23:00:00     }
+Jun 14 23:00:00   }
+Jun 14 23:00:00 }
+Jun 14 23:00:00 
+Jun 14 23:00:00 ❗️柠檬特物国创IP, 错误!
+Jun 14 23:00:00 TypeError: Cannot read property 'beanNum' of null
+Jun 14 23:00:00     at /scripts/myjd3/jd_gcip.js:271:46
+Jun 14 23:00:00     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 23:00:00     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 23:00:00 
+Jun 14 23:00:00 ******开始【京东账号2】jd_7a84de20543eb*********
+Jun 14 23:00:00 
+Jun 14 23:00:01 {
+Jun 14 23:00:01   code: '0',
+Jun 14 23:00:01   data: {
+Jun 14 23:00:01     success: true,
+Jun 14 23:00:01     bizCode: '4001',
+Jun 14 23:00:01     bizMsg: '不在当前活动时间范围内',
+Jun 14 23:00:01     result: null
+Jun 14 23:00:01   }
+Jun 14 23:00:01 }
+Jun 14 23:00:01 
+Jun 14 23:00:01 ❗️柠檬特物国创IP, 错误!
+Jun 14 23:00:01 TypeError: Cannot read property 'userAwardInfo' of null
+Jun 14 23:00:01     at /scripts/myjd3/jd_gcip.js:236:32
+Jun 14 23:00:01     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 23:00:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 23:00:01 {
+Jun 14 23:00:01   code: '0',
+Jun 14 23:00:01   data: {
+Jun 14 23:00:01     success: true,
+Jun 14 23:00:01     bizCode: '4001',
+Jun 14 23:00:01     bizMsg: '不在当前活动时间范围内',
+Jun 14 23:00:01     result: null
+Jun 14 23:00:01   }
+Jun 14 23:00:01 }
+Jun 14 23:00:01 
+Jun 14 23:00:01 ❗️柠檬特物国创IP, 错误!
+Jun 14 23:00:01 TypeError: Cannot read property 'userAwardInfo' of null
+Jun 14 23:00:01     at /scripts/myjd3/jd_gcip.js:236:32
+Jun 14 23:00:01     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 23:00:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 23:00:01 {
+Jun 14 23:00:01   code: '0',
+Jun 14 23:00:01   data: {
+Jun 14 23:00:01     success: true,
+Jun 14 23:00:01     bizCode: 'TK1703',
+Jun 14 23:00:01     bizMsg: '积分不足',
+Jun 14 23:00:01     result: {
+Jun 14 23:00:01       usedScore: null,
+Jun 14 23:00:01       userDrawNum: 0,
+Jun 14 23:00:01       rewardComponent: null,
+Jun 14 23:00:01       userAwardInfo: null,
+Jun 14 23:00:01       waterMarkCode: '24b48b969ee6f3812727adaacb7263c6'
+Jun 14 23:00:01     }
+Jun 14 23:00:01   }
+Jun 14 23:00:01 }
+Jun 14 23:00:01 
+Jun 14 23:00:01 ❗️柠檬特物国创IP, 错误!
+Jun 14 23:00:01 TypeError: Cannot read property 'beanNum' of null
+Jun 14 23:00:01     at /scripts/myjd3/jd_gcip.js:271:46
+Jun 14 23:00:01     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 23:00:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 23:00:01 
+Jun 14 23:00:01 🔔柠檬特物国创IP, 结束! 🕛 0.797 秒
+Jun 14 23:00:01 
+Jun 14 23:00:01 {
+Jun 14 23:00:01   code: '0',
+Jun 14 23:00:01   data: {
+Jun 14 23:00:01     success: true,
+Jun 14 23:00:01     bizCode: 'TK1703',
+Jun 14 23:00:01     bizMsg: '积分不足',
+Jun 14 23:00:01     result: {
+Jun 14 23:00:01       usedScore: null,
+Jun 14 23:00:01       userDrawNum: 0,
+Jun 14 23:00:01       rewardComponent: null,
+Jun 14 23:00:01       userAwardInfo: null,
+Jun 14 23:00:01       waterMarkCode: '24b48b969ee6f3812727adaacb7263c6'
+Jun 14 23:00:01     }
+Jun 14 23:00:01   }
+Jun 14 23:00:01 }
+Jun 14 23:00:01 
+Jun 14 23:00:01 ❗️柠檬特物国创IP, 错误!
+Jun 14 23:00:01 TypeError: Cannot read property 'beanNum' of null
+Jun 14 23:00:01     at /scripts/myjd3/jd_gcip.js:271:46
+Jun 14 23:00:01     at got.post.then.message (/scripts/myjd3/jd_gcip.js:326:6688)
+Jun 14 23:00:01     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Jun 14 23:00:01 
+Jun 14 23:00:01 🔔柠檬特物国创IP, 结束! 🕛 0.798 秒
+Jun 14 23:00:01 

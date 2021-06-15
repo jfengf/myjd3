@@ -1,0 +1,1250 @@
+Jun 14 09:30:00 
+Jun 14 09:30:00 🔔京喜农场, 开始!
+Jun 14 09:30:00 开始获取配置文件
+Jun 14 09:30:00 
+Jun 14 09:30:00 您的cookie选择的是用&隔开
+Jun 14 09:30:00 
+Jun 14 09:30:00 
+Jun 14 09:30:00 ====================共有2个京东账号Cookie=========
+Jun 14 09:30:00 
+Jun 14 09:30:00 
+Jun 14 09:30:00 🔔京喜农场, 开始!
+Jun 14 09:30:00 开始获取配置文件
+Jun 14 09:30:00 
+Jun 14 09:30:00 您的cookie选择的是用&隔开
+Jun 14 09:30:00 
+Jun 14 09:30:00 
+Jun 14 09:30:00 ====================共有2个京东账号Cookie=========
+Jun 14 09:30:00 
+Jun 14 09:30:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 9:30:00 AM=====================
+Jun 14 09:30:00 
+Jun 14 09:30:00 共2个京东账号
+Jun 14 09:30:00 
+Jun 14 09:30:00 您提供了1个账号的京喜农场助力码
+Jun 14 09:30:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 9:30:00 AM=====================
+Jun 14 09:30:00 
+Jun 14 09:30:00 共2个京东账号
+Jun 14 09:30:00 
+Jun 14 09:30:00 您提供了1个账号的京喜农场助力码
+Jun 14 09:30:01 
+Jun 14 09:30:01 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 14 09:30:01 
+Jun 14 09:30:01 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 14 09:30:01 开始【京东账号1】lman87
+Jun 14 09:30:01 
+Jun 14 09:30:01 第1个京东账号将要助力的好友["{\"smp\":\"c0ce6d383f59b37751b35f3566070945\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}",""]
+Jun 14 09:30:01 获取用户信息 & 任务列表
+Jun 14 09:30:01 开始【京东账号1】lman87
+Jun 14 09:30:01 
+Jun 14 09:30:01 第1个京东账号将要助力的好友["{\"smp\":\"c0ce6d383f59b37751b35f3566070945\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}",""]
+Jun 14 09:30:01 获取用户信息 & 任务列表
+Jun 14 09:30:01 获取任务列表  总共18个任务！
+Jun 14 09:30:01 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 14 09:30:01 获取任务列表  总共18个任务！
+Jun 14 09:30:01 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 14 09:30:01 开始第1个任务：每日签到
+Jun 14 09:30:01 开始第1个任务：每日签到
+Jun 14 09:30:02 每日签到[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:02 结束第1个任务：每日签到
+Jun 14 09:30:02 开始第2个任务：开启明日免费领水滴提醒
+Jun 14 09:30:02 结束第1个任务：每日签到
+Jun 14 09:30:02 开始第2个任务：开启明日免费领水滴提醒
+Jun 14 09:30:03 开启明日免费领水滴提醒[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:03 结束第2个任务：开启明日免费领水滴提醒
+Jun 14 09:30:03 开始第3个任务：爆款好货 满3单免3单
+Jun 14 09:30:04 结束第3个任务：爆款好货 满3单免3单
+Jun 14 09:30:04 开始第4个任务：同城热销低至1.9元抢
+Jun 14 09:30:05 开启明日免费领水滴提醒[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:05 结束第2个任务：开启明日免费领水滴提醒
+Jun 14 09:30:05 开始第3个任务：爆款好货 满3单免3单
+Jun 14 09:30:05 结束第4个任务：同城热销低至1.9元抢
+Jun 14 09:30:05 开始第5个任务：一万份鸡蛋免费送
+Jun 14 09:30:06 爆款好货 满3单免3单[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:06 结束第3个任务：爆款好货 满3单免3单
+Jun 14 09:30:06 开始第4个任务：同城热销低至1.9元抢
+Jun 14 09:30:07 一万份鸡蛋免费送[做任务]：ret:1034 retmsg:"freq limit"
+Jun 14 09:30:07 结束第5个任务：一万份鸡蛋免费送
+Jun 14 09:30:07 开始第6个任务：产地好货3.9元起
+Jun 14 09:30:08 产地好货3.9元起[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:08 结束第6个任务：产地好货3.9元起
+Jun 14 09:30:08 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 14 09:30:08 结束第4个任务：同城热销低至1.9元抢
+Jun 14 09:30:08 开始第5个任务：一万份鸡蛋免费送
+Jun 14 09:30:11 一万份鸡蛋免费送[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:11 结束第5个任务：一万份鸡蛋免费送
+Jun 14 09:30:11 开始第6个任务：产地好货3.9元起
+Jun 14 09:30:11 1元限时抢，省钱来秒杀[做任务]：ret:1034 retmsg:"freq limit"
+Jun 14 09:30:11 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 14 09:30:11 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 09:30:11 结束第6个任务：产地好货3.9元起
+Jun 14 09:30:11 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 14 09:30:12 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 09:30:12 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 09:30:12 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 14 09:30:12 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 09:30:12 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 09:30:12 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 09:30:13 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 09:30:13 开始第10个任务：去抢5折限量车型
+Jun 14 09:30:14 热爱狂欢趴 瓜分20亿[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:14 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 09:30:14 开始第10个任务：去抢5折限量车型
+Jun 14 09:30:14 结束第10个任务：去抢5折限量车型
+Jun 14 09:30:14 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 09:30:15 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 09:30:15 开始第12个任务：逛产地直发会场抢好货
+Jun 14 09:30:16 去抢5折限量车型[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:16 结束第10个任务：去抢5折限量车型
+Jun 14 09:30:16 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 09:30:18 结束第12个任务：逛产地直发会场抢好货
+Jun 14 09:30:18 开始第13个任务：限时领50元现金微信打款
+Jun 14 09:30:19 19.9元3斤荔枝顺丰包邮[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:19 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 09:30:19 开始第12个任务：逛产地直发会场抢好货
+Jun 14 09:30:21 限时领50元现金微信打款[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:21 结束第13个任务：限时领50元现金微信打款
+Jun 14 09:30:21 开始第14个任务：领百万补贴红包
+Jun 14 09:30:21 结束第12个任务：逛产地直发会场抢好货
+Jun 14 09:30:21 开始第13个任务：限时领50元现金微信打款
+Jun 14 09:30:21 领百万补贴红包[做任务]：ret:1034 retmsg:"freq limit"
+Jun 14 09:30:21 结束第14个任务：领百万补贴红包
+Jun 14 09:30:21 开始第15个任务：上岛0元领好物
+Jun 14 09:30:22 结束第13个任务：限时领50元现金微信打款
+Jun 14 09:30:22 开始第14个任务：领百万补贴红包
+Jun 14 09:30:23 结束第14个任务：领百万补贴红包
+Jun 14 09:30:23 开始第15个任务：上岛0元领好物
+Jun 14 09:30:24 上岛0元领好物[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:24 结束第15个任务：上岛0元领好物
+Jun 14 09:30:24 开始第16个任务：去工厂0元领好物
+Jun 14 09:30:24 结束第16个任务：去工厂0元领好物
+Jun 14 09:30:24 开始第17个任务：加入官方群，天天抢2元券
+Jun 14 09:30:25 结束第15个任务：上岛0元领好物
+Jun 14 09:30:25 开始第16个任务：去工厂0元领好物
+Jun 14 09:30:25 结束第17个任务：加入官方群，天天抢2元券
+Jun 14 09:30:26 准备做答题任务：每日答题
+Jun 14 09:30:26 获取任务列表  总共18个任务！
+Jun 14 09:30:26 去工厂0元领好物[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:26 结束第16个任务：去工厂0元领好物
+Jun 14 09:30:26 开始第17个任务：加入官方群，天天抢2元券
+Jun 14 09:30:29 加入官方群，天天抢2元券[做任务]：ret:1013 retmsg:"expired"
+Jun 14 09:30:29 结束第17个任务：加入官方群，天天抢2元券
+Jun 14 09:30:29 准备做答题任务：每日答题
+Jun 14 09:30:30 获取任务列表  总共18个任务！
+Jun 14 09:30:36 邀请码提交失败 API 返回异常
+Jun 14 09:30:37 即将助力 share {"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 14 09:30:37 助力结果：ret=0 retmsg="OK"
+Jun 14 09:30:40 邀请码提交失败 API 返回异常
+Jun 14 09:30:40 即将助力 share {"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 14 09:30:40 助力结果：ret=1009 retmsg="today has help p2p"
+Jun 14 09:31:11 获取随机助力码失败 API 返回异常
+Jun 14 09:31:11 京喜农场 - notify 通知已关闭
+Jun 14 09:31:11 账号1 - lman87
+Jun 14 09:31:11 【京东账号1】lman87
+Jun 14 09:31:11 【水果名称】干脆面
+Jun 14 09:31:11 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 14 09:31:11 
+Jun 14 09:31:11 
+Jun 14 09:31:11 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 14 09:31:11 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 14 09:31:11 
+Jun 14 09:31:11 由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jun 14 09:31:11 第2个京东账号将要助力的好友["{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 09:31:11 获取用户信息 & 任务列表
+Jun 14 09:31:11 获取任务列表  总共1个任务！
+Jun 14 09:31:11 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 14 09:31:12 准备做答题任务：每日答题
+Jun 14 09:31:12 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:7"
+Jun 14 09:31:13 获取任务列表  总共1个任务！
+Jun 14 09:31:14 获取随机助力码失败 API 返回异常
+Jun 14 09:31:14 京喜农场 - notify 通知已关闭
+Jun 14 09:31:14 账号1 - lman87
+Jun 14 09:31:14 【京东账号1】lman87
+Jun 14 09:31:14 【水果名称】干脆面
+Jun 14 09:31:14 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 14 09:31:14 
+Jun 14 09:31:14 
+Jun 14 09:31:14 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 14 09:31:14 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 14 09:31:14 
+Jun 14 09:31:14 由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jun 14 09:31:14 第2个京东账号将要助力的好友["{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 09:31:14 获取用户信息 & 任务列表
+Jun 14 09:31:15 获取任务列表  总共1个任务！
+Jun 14 09:31:15 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 14 09:31:16 准备做答题任务：每日答题
+Jun 14 09:31:16 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:7"
+Jun 14 09:31:16 获取任务列表  总共1个任务！
+Jun 14 09:31:23 邀请码提交失败 API 返回异常
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:23 助力码非 json 格式，跳过
+Jun 14 09:31:26 邀请码提交失败 API 返回异常
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:27 助力码非 json 格式，跳过
+Jun 14 09:31:56 获取随机助力码失败 API 返回异常
+Jun 14 09:31:56 京喜农场 - notify 通知已关闭
+Jun 14 09:31:56 账号2 - jd_rkylFaEIkvBL
+Jun 14 09:31:56 【京东账号2】jd_rkylFaEIkvBL
+Jun 14 09:31:56 【水果名称】大米
+Jun 14 09:31:56 【水滴】本次获得0 离线获得0 今日获得82 还需水滴781
+Jun 14 09:31:56 【预测】还需 10 天
+Jun 14 09:31:56 
+Jun 14 09:31:56 
+Jun 14 09:31:56 🔔京喜农场, 结束! 🕛 115.927 秒
+Jun 14 09:31:56 
+Jun 14 09:32:00 获取随机助力码失败 API 返回异常
+Jun 14 09:32:00 京喜农场 - notify 通知已关闭
+Jun 14 09:32:00 账号2 - jd_rkylFaEIkvBL
+Jun 14 09:32:00 【京东账号2】jd_rkylFaEIkvBL
+Jun 14 09:32:00 【水果名称】大米
+Jun 14 09:32:00 【水滴】本次获得0 离线获得0 今日获得82 还需水滴781
+Jun 14 09:32:00 【预测】还需 10 天
+Jun 14 09:32:00 
+Jun 14 09:32:00 
+Jun 14 09:32:00 🔔京喜农场, 结束! 🕛 119.384 秒
+Jun 14 09:32:00 
+Jun 14 12:30:01 
+Jun 14 12:30:01 🔔京喜农场, 开始!
+Jun 14 12:30:01 开始获取配置文件
+Jun 14 12:30:01 
+Jun 14 12:30:01 
+Jun 14 12:30:01 🔔京喜农场, 开始!
+Jun 14 12:30:01 您的cookie选择的是用&隔开
+Jun 14 12:30:01 
+Jun 14 12:30:01 
+Jun 14 12:30:01 ====================共有2个京东账号Cookie=========
+Jun 14 12:30:01 
+Jun 14 12:30:01 开始获取配置文件
+Jun 14 12:30:01 
+Jun 14 12:30:01 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 12:30:01 PM=====================
+Jun 14 12:30:01 
+Jun 14 12:30:01 共2个京东账号
+Jun 14 12:30:01 
+Jun 14 12:30:01 您提供了1个账号的京喜农场助力码
+Jun 14 12:30:01 您的cookie选择的是用&隔开
+Jun 14 12:30:01 
+Jun 14 12:30:01 
+Jun 14 12:30:01 ====================共有2个京东账号Cookie=========
+Jun 14 12:30:01 
+Jun 14 12:30:01 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 12:30:01 PM=====================
+Jun 14 12:30:01 
+Jun 14 12:30:01 共2个京东账号
+Jun 14 12:30:01 
+Jun 14 12:30:01 您提供了1个账号的京喜农场助力码
+Jun 14 12:30:01 
+Jun 14 12:30:01 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 14 12:30:01 
+Jun 14 12:30:01 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 14 12:30:01 开始【京东账号1】lman87
+Jun 14 12:30:01 
+Jun 14 12:30:01 第1个京东账号将要助力的好友["{\"smp\":\"c0ce6d383f59b37751b35f3566070945\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}","{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 12:30:01 获取用户信息 & 任务列表
+Jun 14 12:30:01 开始【京东账号1】lman87
+Jun 14 12:30:01 
+Jun 14 12:30:01 第1个京东账号将要助力的好友["{\"smp\":\"c0ce6d383f59b37751b35f3566070945\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}","{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 12:30:01 获取用户信息 & 任务列表
+Jun 14 12:30:01 获取任务列表  总共18个任务！
+Jun 14 12:30:01 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 14 12:30:01 获取任务列表  总共18个任务！
+Jun 14 12:30:01 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 14 12:30:02 开始第1个任务：每日签到
+Jun 14 12:30:02 开始第1个任务：每日签到
+Jun 14 12:30:02 每日签到[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:02 结束第1个任务：每日签到
+Jun 14 12:30:02 开始第2个任务：开启明日免费领水滴提醒
+Jun 14 12:30:05 每日签到[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:05 结束第1个任务：每日签到
+Jun 14 12:30:05 开始第2个任务：开启明日免费领水滴提醒
+Jun 14 12:30:05 开启明日免费领水滴提醒[做任务]：ret:1034 retmsg:"freq limit"
+Jun 14 12:30:05 结束第2个任务：开启明日免费领水滴提醒
+Jun 14 12:30:05 开始第3个任务：爆款好货 满3单免3单
+Jun 14 12:30:06 结束第2个任务：开启明日免费领水滴提醒
+Jun 14 12:30:06 开始第3个任务：爆款好货 满3单免3单
+Jun 14 12:30:07 爆款好货 满3单免3单[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:07 结束第3个任务：爆款好货 满3单免3单
+Jun 14 12:30:07 开始第4个任务：同城热销低至1.9元抢
+Jun 14 12:30:09 同城热销低至1.9元抢[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:09 结束第4个任务：同城热销低至1.9元抢
+Jun 14 12:30:09 开始第5个任务：一万份鸡蛋免费送
+Jun 14 12:30:09 结束第3个任务：爆款好货 满3单免3单
+Jun 14 12:30:09 开始第4个任务：同城热销低至1.9元抢
+Jun 14 12:30:10 结束第4个任务：同城热销低至1.9元抢
+Jun 14 12:30:10 开始第5个任务：一万份鸡蛋免费送
+Jun 14 12:30:11 一万份鸡蛋免费送[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:11 结束第5个任务：一万份鸡蛋免费送
+Jun 14 12:30:11 开始第6个任务：产地好货3.9元起
+Jun 14 12:30:11 结束第5个任务：一万份鸡蛋免费送
+Jun 14 12:30:11 开始第6个任务：产地好货3.9元起
+Jun 14 12:30:14 产地好货3.9元起[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:14 结束第6个任务：产地好货3.9元起
+Jun 14 12:30:14 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 14 12:30:14 结束第6个任务：产地好货3.9元起
+Jun 14 12:30:14 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 14 12:30:15 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 14 12:30:15 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 12:30:16 1元限时抢，省钱来秒杀[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:16 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 14 12:30:16 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 12:30:16 每日抽奖，瓜分千万京豆[做任务]：ret:1034 retmsg:"freq limit"
+Jun 14 12:30:16 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 12:30:16 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 12:30:17 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 12:30:17 开始第10个任务：去抢5折限量车型
+Jun 14 12:30:18 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 12:30:18 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 12:30:18 去抢5折限量车型[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:18 结束第10个任务：去抢5折限量车型
+Jun 14 12:30:18 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 12:30:20 热爱狂欢趴 瓜分20亿[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:20 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 12:30:20 开始第10个任务：去抢5折限量车型
+Jun 14 12:30:21 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 12:30:21 开始第12个任务：逛产地直发会场抢好货
+Jun 14 12:30:21 去抢5折限量车型[做任务]：ret:1034 retmsg:"freq limit"
+Jun 14 12:30:21 结束第10个任务：去抢5折限量车型
+Jun 14 12:30:21 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 12:30:23 19.9元3斤荔枝顺丰包邮[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:23 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 12:30:23 开始第12个任务：逛产地直发会场抢好货
+Jun 14 12:30:24 逛产地直发会场抢好货[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:24 结束第12个任务：逛产地直发会场抢好货
+Jun 14 12:30:24 开始第13个任务：限时领50元现金微信打款
+Jun 14 12:30:24 结束第12个任务：逛产地直发会场抢好货
+Jun 14 12:30:24 开始第13个任务：限时领50元现金微信打款
+Jun 14 12:30:25 限时领50元现金微信打款[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:25 结束第13个任务：限时领50元现金微信打款
+Jun 14 12:30:25 开始第14个任务：领百万补贴红包
+Jun 14 12:30:27 限时领50元现金微信打款[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:27 结束第13个任务：限时领50元现金微信打款
+Jun 14 12:30:27 开始第14个任务：领百万补贴红包
+Jun 14 12:30:27 结束第14个任务：领百万补贴红包
+Jun 14 12:30:27 开始第15个任务：上岛0元领好物
+Jun 14 12:30:27 结束第15个任务：上岛0元领好物
+Jun 14 12:30:27 开始第16个任务：去工厂0元领好物
+Jun 14 12:30:28 结束第14个任务：领百万补贴红包
+Jun 14 12:30:28 开始第15个任务：上岛0元领好物
+Jun 14 12:30:28 去工厂0元领好物[做任务]：ret:1013 retmsg:"expired"
+Jun 14 12:30:28 结束第16个任务：去工厂0元领好物
+Jun 14 12:30:28 开始第17个任务：加入官方群，天天抢2元券
+Jun 14 12:30:28 结束第15个任务：上岛0元领好物
+Jun 14 12:30:28 开始第16个任务：去工厂0元领好物
+Jun 14 12:30:29 结束第16个任务：去工厂0元领好物
+Jun 14 12:30:29 开始第17个任务：加入官方群，天天抢2元券
+Jun 14 12:30:29 结束第17个任务：加入官方群，天天抢2元券
+Jun 14 12:30:29 准备做答题任务：每日答题
+Jun 14 12:30:29 结束第17个任务：加入官方群，天天抢2元券
+Jun 14 12:30:30 准备做答题任务：每日答题
+Jun 14 12:30:30 获取任务列表  总共18个任务！
+Jun 14 12:30:31 获取任务列表  总共18个任务！
+Jun 14 12:30:40 邀请码提交失败 API 返回异常
+Jun 14 12:30:41 邀请码提交失败 API 返回异常
+Jun 14 12:30:41 即将助力 share {"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 14 12:30:41 助力结果：ret=1009 retmsg="today has help p2p"
+Jun 14 12:30:41 即将助力 share {"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 14 12:30:41 助力结果：ret=1009 retmsg="today has help p2p"
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:30:42 助力码非 json 格式，跳过
+Jun 14 12:31:15 获取随机助力码失败 API 返回异常
+Jun 14 12:31:15 京喜农场 - notify 通知已关闭
+Jun 14 12:31:15 账号1 - lman87
+Jun 14 12:31:15 【京东账号1】lman87
+Jun 14 12:31:15 【水果名称】干脆面
+Jun 14 12:31:15 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 14 12:31:15 
+Jun 14 12:31:15 
+Jun 14 12:31:15 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 14 12:31:15 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 14 12:31:15 
+Jun 14 12:31:15 由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jun 14 12:31:15 第2个京东账号将要助力的好友["{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 12:31:15 获取用户信息 & 任务列表
+Jun 14 12:31:15 获取任务列表  总共1个任务！
+Jun 14 12:31:15 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 14 12:31:15 获取随机助力码失败 API 返回异常
+Jun 14 12:31:15 京喜农场 - notify 通知已关闭
+Jun 14 12:31:15 账号1 - lman87
+Jun 14 12:31:15 【京东账号1】lman87
+Jun 14 12:31:15 【水果名称】干脆面
+Jun 14 12:31:15 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 14 12:31:15 
+Jun 14 12:31:15 
+Jun 14 12:31:15 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 14 12:31:15 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 14 12:31:15 
+Jun 14 12:31:15 由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jun 14 12:31:15 第2个京东账号将要助力的好友["{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 12:31:15 获取用户信息 & 任务列表
+Jun 14 12:31:15 获取任务列表  总共1个任务！
+Jun 14 12:31:15 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 14 12:31:16 准备做答题任务：每日答题
+Jun 14 12:31:16 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:7"
+Jun 14 12:31:16 准备做答题任务：每日答题
+Jun 14 12:31:17 获取任务列表  总共1个任务！
+Jun 14 12:31:17 获取任务列表  总共1个任务！
+Jun 14 12:31:27 邀请码提交失败 API 返回异常
+Jun 14 12:31:27 邀请码提交失败 API 返回异常
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:31:27 助力码非 json 格式，跳过
+Jun 14 12:32:00 获取随机助力码失败 API 返回异常
+Jun 14 12:32:00 京喜农场 - notify 通知已关闭
+Jun 14 12:32:00 账号2 - jd_rkylFaEIkvBL
+Jun 14 12:32:00 【京东账号2】jd_rkylFaEIkvBL
+Jun 14 12:32:00 【水果名称】大米
+Jun 14 12:32:00 【水滴】本次获得0 离线获得0 今日获得82 还需水滴781
+Jun 14 12:32:00 【预测】还需 10 天
+Jun 14 12:32:00 
+Jun 14 12:32:00 
+Jun 14 12:32:00 🔔京喜农场, 结束! 🕛 119.487 秒
+Jun 14 12:32:00 
+Jun 14 12:32:01 获取随机助力码失败 API 返回异常
+Jun 14 12:32:01 京喜农场 - notify 通知已关闭
+Jun 14 12:32:01 账号2 - jd_rkylFaEIkvBL
+Jun 14 12:32:01 【京东账号2】jd_rkylFaEIkvBL
+Jun 14 12:32:01 【水果名称】大米
+Jun 14 12:32:01 【水滴】本次获得0 离线获得0 今日获得82 还需水滴781
+Jun 14 12:32:01 【预测】还需 10 天
+Jun 14 12:32:01 
+Jun 14 12:32:01 
+Jun 14 12:32:01 🔔京喜农场, 结束! 🕛 119.981 秒
+Jun 14 12:32:01 
+Jun 14 18:30:00 
+Jun 14 18:30:00 🔔京喜农场, 开始!
+Jun 14 18:30:00 开始获取配置文件
+Jun 14 18:30:00 
+Jun 14 18:30:00 您的cookie选择的是用&隔开
+Jun 14 18:30:00 
+Jun 14 18:30:00 
+Jun 14 18:30:00 ====================共有2个京东账号Cookie=========
+Jun 14 18:30:00 
+Jun 14 18:30:00 
+Jun 14 18:30:00 🔔京喜农场, 开始!
+Jun 14 18:30:00 开始获取配置文件
+Jun 14 18:30:00 
+Jun 14 18:30:00 您的cookie选择的是用&隔开
+Jun 14 18:30:00 
+Jun 14 18:30:00 
+Jun 14 18:30:00 ====================共有2个京东账号Cookie=========
+Jun 14 18:30:00 
+Jun 14 18:30:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 6:30:00 PM=====================
+Jun 14 18:30:00 
+Jun 14 18:30:00 共2个京东账号
+Jun 14 18:30:00 
+Jun 14 18:30:00 您提供了1个账号的京喜农场助力码
+Jun 14 18:30:00 ==================脚本执行- 北京时间(UTC+8)：6/14/2021, 6:30:00 PM=====================
+Jun 14 18:30:00 
+Jun 14 18:30:00 共2个京东账号
+Jun 14 18:30:00 
+Jun 14 18:30:00 您提供了1个账号的京喜农场助力码
+Jun 14 18:30:00 
+Jun 14 18:30:00 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 14 18:30:00 
+Jun 14 18:30:00 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 14 18:30:00 开始【京东账号1】lman87
+Jun 14 18:30:00 
+Jun 14 18:30:00 第1个京东账号将要助力的好友["{\"smp\":\"c0ce6d383f59b37751b35f3566070945\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}",""]
+Jun 14 18:30:00 获取用户信息 & 任务列表
+Jun 14 18:30:00 开始【京东账号1】lman87
+Jun 14 18:30:00 
+Jun 14 18:30:00 第1个京东账号将要助力的好友["{\"smp\":\"c0ce6d383f59b37751b35f3566070945\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}","{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 18:30:00 获取用户信息 & 任务列表
+Jun 14 18:30:00 获取任务列表  总共18个任务！
+Jun 14 18:30:00 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 14 18:30:00 获取任务列表  总共18个任务！
+Jun 14 18:30:00 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 14 18:30:01 开始第1个任务：每日签到
+Jun 14 18:30:01 开始第1个任务：每日签到
+Jun 14 18:30:01 每日签到[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:01 结束第1个任务：每日签到
+Jun 14 18:30:01 开始第2个任务：开启明日免费领水滴提醒
+Jun 14 18:30:02 结束第1个任务：每日签到
+Jun 14 18:30:02 开始第2个任务：开启明日免费领水滴提醒
+Jun 14 18:30:04 开启明日免费领水滴提醒[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:04 结束第2个任务：开启明日免费领水滴提醒
+Jun 14 18:30:04 开始第3个任务：爆款好货 满3单免3单
+Jun 14 18:30:04 结束第2个任务：开启明日免费领水滴提醒
+Jun 14 18:30:04 开始第3个任务：爆款好货 满3单免3单
+Jun 14 18:30:05 爆款好货 满3单免3单[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:05 结束第3个任务：爆款好货 满3单免3单
+Jun 14 18:30:05 开始第4个任务：同城热销低至1.9元抢
+Jun 14 18:30:06 爆款好货 满3单免3单[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:06 结束第3个任务：爆款好货 满3单免3单
+Jun 14 18:30:06 开始第4个任务：同城热销低至1.9元抢
+Jun 14 18:30:07 结束第4个任务：同城热销低至1.9元抢
+Jun 14 18:30:07 开始第5个任务：一万份鸡蛋免费送
+Jun 14 18:30:08 结束第4个任务：同城热销低至1.9元抢
+Jun 14 18:30:08 开始第5个任务：一万份鸡蛋免费送
+Jun 14 18:30:08 结束第5个任务：一万份鸡蛋免费送
+Jun 14 18:30:08 开始第6个任务：产地好货3.9元起
+Jun 14 18:30:08 一万份鸡蛋免费送[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:08 结束第5个任务：一万份鸡蛋免费送
+Jun 14 18:30:08 开始第6个任务：产地好货3.9元起
+Jun 14 18:30:09 结束第6个任务：产地好货3.9元起
+Jun 14 18:30:09 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 14 18:30:10 结束第6个任务：产地好货3.9元起
+Jun 14 18:30:10 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 14 18:30:11 1元限时抢，省钱来秒杀[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:11 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 14 18:30:11 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 18:30:11 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 14 18:30:11 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 18:30:12 每日抽奖，瓜分千万京豆[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:12 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 18:30:12 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 18:30:13 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 14 18:30:13 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 18:30:13 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 18:30:13 开始第10个任务：去抢5折限量车型
+Jun 14 18:30:14 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 14 18:30:14 开始第10个任务：去抢5折限量车型
+Jun 14 18:30:16 结束第10个任务：去抢5折限量车型
+Jun 14 18:30:16 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 18:30:16 结束第10个任务：去抢5折限量车型
+Jun 14 18:30:16 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 18:30:18 19.9元3斤荔枝顺丰包邮[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:18 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 18:30:18 开始第12个任务：逛产地直发会场抢好货
+Jun 14 18:30:18 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 14 18:30:18 开始第12个任务：逛产地直发会场抢好货
+Jun 14 18:30:18 结束第12个任务：逛产地直发会场抢好货
+Jun 14 18:30:18 开始第13个任务：限时领50元现金微信打款
+Jun 14 18:30:19 逛产地直发会场抢好货[做任务]：ret:1034 retmsg:"freq limit"
+Jun 14 18:30:19 结束第12个任务：逛产地直发会场抢好货
+Jun 14 18:30:19 开始第13个任务：限时领50元现金微信打款
+Jun 14 18:30:20 结束第13个任务：限时领50元现金微信打款
+Jun 14 18:30:20 开始第14个任务：领百万补贴红包
+Jun 14 18:30:20 领百万补贴红包[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:20 结束第14个任务：领百万补贴红包
+Jun 14 18:30:20 开始第15个任务：上岛0元领好物
+Jun 14 18:30:21 结束第13个任务：限时领50元现金微信打款
+Jun 14 18:30:21 开始第14个任务：领百万补贴红包
+Jun 14 18:30:22 上岛0元领好物[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:22 结束第15个任务：上岛0元领好物
+Jun 14 18:30:22 开始第16个任务：去工厂0元领好物
+Jun 14 18:30:23 领百万补贴红包[做任务]：ret:1034 retmsg:"freq limit"
+Jun 14 18:30:23 结束第14个任务：领百万补贴红包
+Jun 14 18:30:23 开始第15个任务：上岛0元领好物
+Jun 14 18:30:24 结束第15个任务：上岛0元领好物
+Jun 14 18:30:24 开始第16个任务：去工厂0元领好物
+Jun 14 18:30:25 结束第16个任务：去工厂0元领好物
+Jun 14 18:30:25 开始第17个任务：加入官方群，天天抢2元券
+Jun 14 18:30:26 结束第16个任务：去工厂0元领好物
+Jun 14 18:30:26 开始第17个任务：加入官方群，天天抢2元券
+Jun 14 18:30:27 加入官方群，天天抢2元券[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:27 结束第17个任务：加入官方群，天天抢2元券
+Jun 14 18:30:27 结束第17个任务：加入官方群，天天抢2元券
+Jun 14 18:30:27 准备做答题任务：每日答题
+Jun 14 18:30:28 准备做答题任务：每日答题
+Jun 14 18:30:28 每日答题[做任务]：ret:1013 retmsg:"expired"
+Jun 14 18:30:28 获取任务列表  总共18个任务！
+Jun 14 18:30:29 准备做答题任务：每日答题
+Jun 14 18:30:29 获取任务列表  总共18个任务！
+Jun 14 18:30:38 邀请码提交失败 API 返回异常
+Jun 14 18:30:39 即将助力 share {"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 14 18:30:39 助力结果：ret=1009 retmsg="today has help p2p"
+Jun 14 18:30:39 邀请码提交失败 API 返回异常
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 助力码非 json 格式，跳过
+Jun 14 18:30:40 即将助力 share {"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 14 18:30:40 助力结果：ret=1009 retmsg="today has help p2p"
+Jun 14 18:31:13 获取随机助力码失败 API 返回异常
+Jun 14 18:31:13 京喜农场 - notify 通知已关闭
+Jun 14 18:31:13 账号1 - lman87
+Jun 14 18:31:13 【京东账号1】lman87
+Jun 14 18:31:13 【水果名称】干脆面
+Jun 14 18:31:13 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 14 18:31:13 
+Jun 14 18:31:13 
+Jun 14 18:31:13 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 14 18:31:13 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 14 18:31:13 
+Jun 14 18:31:13 由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jun 14 18:31:13 第2个京东账号将要助力的好友["{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 18:31:13 获取用户信息 & 任务列表
+Jun 14 18:31:13 获取任务列表  总共1个任务！
+Jun 14 18:31:13 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 14 18:31:14 准备做答题任务：每日答题
+Jun 14 18:31:14 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:7"
+Jun 14 18:31:14 获取随机助力码失败 API 返回异常
+Jun 14 18:31:14 京喜农场 - notify 通知已关闭
+Jun 14 18:31:14 账号1 - lman87
+Jun 14 18:31:14 【京东账号1】lman87
+Jun 14 18:31:14 【水果名称】干脆面
+Jun 14 18:31:14 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 14 18:31:14 
+Jun 14 18:31:14 
+Jun 14 18:31:14 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 14 18:31:14 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 14 18:31:14 
+Jun 14 18:31:14 由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jun 14 18:31:14 第2个京东账号将要助力的好友["{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 14 18:31:14 获取用户信息 & 任务列表
+Jun 14 18:31:14 获取任务列表  总共1个任务！
+Jun 14 18:31:14 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 14 18:31:15 获取任务列表  总共1个任务！
+Jun 14 18:31:15 准备做答题任务：每日答题
+Jun 14 18:31:15 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:7"
+Jun 14 18:31:16 获取任务列表  总共1个任务！
+Jun 14 18:31:25 邀请码提交失败 API 返回异常
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:25 助力码非 json 格式，跳过
+Jun 14 18:31:26 邀请码提交失败 API 返回异常
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:26 助力码非 json 格式，跳过
+Jun 14 18:31:58 获取随机助力码失败 API 返回异常
+Jun 14 18:31:58 京喜农场 - notify 通知已关闭
+Jun 14 18:31:58 账号2 - jd_rkylFaEIkvBL
+Jun 14 18:31:58 【京东账号2】jd_rkylFaEIkvBL
+Jun 14 18:31:58 【水果名称】大米
+Jun 14 18:31:58 【水滴】本次获得0 离线获得0 今日获得82 还需水滴781
+Jun 14 18:31:58 【预测】还需 10 天
+Jun 14 18:31:58 
+Jun 14 18:31:58 
+Jun 14 18:31:58 🔔京喜农场, 结束! 🕛 118.426 秒
+Jun 14 18:31:58 
+Jun 14 18:32:00 获取随机助力码失败 API 返回异常
+Jun 14 18:32:00 京喜农场 - notify 通知已关闭
+Jun 14 18:32:00 账号2 - jd_rkylFaEIkvBL
+Jun 14 18:32:00 【京东账号2】jd_rkylFaEIkvBL
+Jun 14 18:32:00 【水果名称】大米
+Jun 14 18:32:00 【水滴】本次获得0 离线获得0 今日获得82 还需水滴781
+Jun 14 18:32:00 【预测】还需 10 天
+Jun 14 18:32:00 
+Jun 14 18:32:00 
+Jun 14 18:32:00 🔔京喜农场, 结束! 🕛 119.803 秒
+Jun 14 18:32:00 
+Jun 15 09:30:00 
+Jun 15 09:30:00 🔔京喜农场, 开始!
+Jun 15 09:30:00 
+Jun 15 09:30:00 🔔京喜农场, 开始!
+Jun 15 09:30:00 开始获取配置文件
+Jun 15 09:30:00 
+Jun 15 09:30:00 您的cookie选择的是用&隔开
+Jun 15 09:30:00 
+Jun 15 09:30:00 
+Jun 15 09:30:00 ====================共有2个京东账号Cookie=========
+Jun 15 09:30:00 
+Jun 15 09:30:00 开始获取配置文件
+Jun 15 09:30:00 
+Jun 15 09:30:00 您的cookie选择的是用&隔开
+Jun 15 09:30:00 
+Jun 15 09:30:00 
+Jun 15 09:30:00 ====================共有2个京东账号Cookie=========
+Jun 15 09:30:00 
+Jun 15 09:30:00 ==================脚本执行- 北京时间(UTC+8)：6/15/2021, 9:30:00 AM=====================
+Jun 15 09:30:00 
+Jun 15 09:30:00 ==================脚本执行- 北京时间(UTC+8)：6/15/2021, 9:30:00 AM=====================
+Jun 15 09:30:00 
+Jun 15 09:30:00 共2个京东账号
+Jun 15 09:30:00 
+Jun 15 09:30:00 共2个京东账号
+Jun 15 09:30:00 
+Jun 15 09:30:00 您提供了1个账号的京喜农场助力码
+Jun 15 09:30:00 您提供了1个账号的京喜农场助力码
+Jun 15 09:30:00 
+Jun 15 09:30:00 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 15 09:30:00 
+Jun 15 09:30:00 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 15 09:30:00 开始【京东账号1】lman87
+Jun 15 09:30:00 
+Jun 15 09:30:00 第1个京东账号将要助力的好友["{\"smp\":\"c0ce6d383f59b37751b35f3566070945\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}",""]
+Jun 15 09:30:00 获取用户信息 & 任务列表
+Jun 15 09:30:00 开始【京东账号1】lman87
+Jun 15 09:30:00 
+Jun 15 09:30:00 第1个京东账号将要助力的好友["{\"smp\":\"c0ce6d383f59b37751b35f3566070945\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}","{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 15 09:30:00 获取用户信息 & 任务列表
+Jun 15 09:30:00 获取任务列表  总共18个任务！
+Jun 15 09:30:00 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 15 09:30:00 获取任务列表  总共18个任务！
+Jun 15 09:30:00 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 15 09:30:01 开始第1个任务：每日签到
+Jun 15 09:30:01 开始第1个任务：每日签到
+Jun 15 09:30:02 每日签到[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:02 结束第1个任务：每日签到
+Jun 15 09:30:02 开始第2个任务：开启明日免费领水滴提醒
+Jun 15 09:30:03 每日签到[做任务]：ret:1034 retmsg:"freq limit"
+Jun 15 09:30:03 结束第1个任务：每日签到
+Jun 15 09:30:03 开始第2个任务：开启明日免费领水滴提醒
+Jun 15 09:30:04 结束第2个任务：开启明日免费领水滴提醒
+Jun 15 09:30:04 开始第3个任务：爆款好货 满3单免3单
+Jun 15 09:30:04 结束第2个任务：开启明日免费领水滴提醒
+Jun 15 09:30:04 开始第3个任务：爆款好货 满3单免3单
+Jun 15 09:30:06 爆款好货 满3单免3单[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:06 结束第3个任务：爆款好货 满3单免3单
+Jun 15 09:30:06 开始第4个任务：同城热销低至1.9元抢
+Jun 15 09:30:06 结束第4个任务：同城热销低至1.9元抢
+Jun 15 09:30:06 开始第5个任务：一万份鸡蛋免费送
+Jun 15 09:30:07 结束第5个任务：一万份鸡蛋免费送
+Jun 15 09:30:07 开始第6个任务：产地好货3.9元起
+Jun 15 09:30:07 结束第3个任务：爆款好货 满3单免3单
+Jun 15 09:30:07 开始第4个任务：同城热销低至1.9元抢
+Jun 15 09:30:09 产地好货3.9元起[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:09 结束第6个任务：产地好货3.9元起
+Jun 15 09:30:09 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 15 09:30:10 结束第4个任务：同城热销低至1.9元抢
+Jun 15 09:30:10 开始第5个任务：一万份鸡蛋免费送
+Jun 15 09:30:11 1元限时抢，省钱来秒杀[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:11 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 15 09:30:11 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 15 09:30:12 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 15 09:30:12 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 15 09:30:13 一万份鸡蛋免费送[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:13 结束第5个任务：一万份鸡蛋免费送
+Jun 15 09:30:13 开始第6个任务：产地好货3.9元起
+Jun 15 09:30:13 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 15 09:30:13 开始第10个任务：去抢5折限量车型
+Jun 15 09:30:15 去抢5折限量车型[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:15 结束第10个任务：去抢5折限量车型
+Jun 15 09:30:15 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 15 09:30:16 结束第6个任务：产地好货3.9元起
+Jun 15 09:30:16 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 15 09:30:17 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 15 09:30:17 开始第12个任务：逛产地直发会场抢好货
+Jun 15 09:30:18 结束第12个任务：逛产地直发会场抢好货
+Jun 15 09:30:18 开始第13个任务：限时领50元现金微信打款
+Jun 15 09:30:18 1元限时抢，省钱来秒杀[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:18 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 15 09:30:18 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 15 09:30:19 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 15 09:30:19 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 15 09:30:20 限时领50元现金微信打款[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:20 结束第13个任务：限时领50元现金微信打款
+Jun 15 09:30:20 开始第14个任务：领百万补贴红包
+Jun 15 09:30:21 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 15 09:30:21 开始第10个任务：去抢5折限量车型
+Jun 15 09:30:22 去抢5折限量车型[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:22 结束第10个任务：去抢5折限量车型
+Jun 15 09:30:22 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 15 09:30:22 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 15 09:30:22 开始第12个任务：逛产地直发会场抢好货
+Jun 15 09:30:23 领百万补贴红包[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:23 结束第14个任务：领百万补贴红包
+Jun 15 09:30:23 开始第15个任务：上岛0元领好物
+Jun 15 09:30:23 结束第12个任务：逛产地直发会场抢好货
+Jun 15 09:30:23 开始第13个任务：限时领50元现金微信打款
+Jun 15 09:30:24 结束第13个任务：限时领50元现金微信打款
+Jun 15 09:30:24 开始第14个任务：领百万补贴红包
+Jun 15 09:30:26 上岛0元领好物[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:26 结束第15个任务：上岛0元领好物
+Jun 15 09:30:26 开始第16个任务：去工厂0元领好物
+Jun 15 09:30:27 领百万补贴红包[做任务]：ret:1034 retmsg:"freq limit"
+Jun 15 09:30:27 结束第14个任务：领百万补贴红包
+Jun 15 09:30:27 开始第15个任务：上岛0元领好物
+Jun 15 09:30:28 上岛0元领好物[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:28 结束第15个任务：上岛0元领好物
+Jun 15 09:30:28 开始第16个任务：去工厂0元领好物
+Jun 15 09:30:28 结束第16个任务：去工厂0元领好物
+Jun 15 09:30:28 开始第17个任务：加入官方群，天天抢2元券
+Jun 15 09:30:30 加入官方群，天天抢2元券[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:30 结束第17个任务：加入官方群，天天抢2元券
+Jun 15 09:30:30 去工厂0元领好物[做任务]：ret:1034 retmsg:"freq limit"
+Jun 15 09:30:30 结束第16个任务：去工厂0元领好物
+Jun 15 09:30:30 开始第17个任务：加入官方群，天天抢2元券
+Jun 15 09:30:30 准备做答题任务：每日答题
+Jun 15 09:30:31 获取任务列表  总共18个任务！
+Jun 15 09:30:32 加入官方群，天天抢2元券[做任务]：ret:1013 retmsg:"expired"
+Jun 15 09:30:32 结束第17个任务：加入官方群，天天抢2元券
+Jun 15 09:30:33 准备做答题任务：每日答题
+Jun 15 09:30:33 每日答题[做任务]：ret:1034 retmsg:"freq limit"
+Jun 15 09:30:34 准备做答题任务：每日答题
+Jun 15 09:30:35 获取任务列表  总共18个任务！
+Jun 15 09:30:41 邀请码提交失败 API 返回异常
+Jun 15 09:30:42 即将助力 share {"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 15 09:30:42 助力结果：ret=0 retmsg="OK"
+Jun 15 09:30:45 邀请码提交失败 API 返回异常
+Jun 15 09:30:45 即将助力 share {"smp":"c0ce6d383f59b37751b35f3566070945","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 15 09:30:45 助力结果：ret=1009 retmsg="today has help p2p"
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:30:46 助力码非 json 格式，跳过
+Jun 15 09:31:16 获取随机助力码失败 API 返回异常
+Jun 15 09:31:16 京喜农场 - notify 通知已关闭
+Jun 15 09:31:16 账号1 - lman87
+Jun 15 09:31:16 【京东账号1】lman87
+Jun 15 09:31:16 【水果名称】干脆面
+Jun 15 09:31:16 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 15 09:31:16 
+Jun 15 09:31:16 
+Jun 15 09:31:16 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 15 09:31:16 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 15 09:31:16 
+Jun 15 09:31:16 由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jun 15 09:31:16 第2个京东账号将要助力的好友["{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 15 09:31:16 获取用户信息 & 任务列表
+Jun 15 09:31:16 获取任务列表  总共1个任务！
+Jun 15 09:31:16 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 15 09:31:17 准备做答题任务：每日答题
+Jun 15 09:31:17 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:8"
+Jun 15 09:31:18 获取任务列表  总共1个任务！
+Jun 15 09:31:19 获取随机助力码失败 API 返回异常
+Jun 15 09:31:19 京喜农场 - notify 通知已关闭
+Jun 15 09:31:19 账号1 - lman87
+Jun 15 09:31:19 【京东账号1】lman87
+Jun 15 09:31:19 【水果名称】干脆面
+Jun 15 09:31:19 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 15 09:31:19 
+Jun 15 09:31:19 
+Jun 15 09:31:19 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 15 09:31:19 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 15 09:31:19 
+Jun 15 09:31:19 由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Jun 15 09:31:19 第2个京东账号将要助力的好友["{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 15 09:31:19 获取用户信息 & 任务列表
+Jun 15 09:31:19 获取任务列表  总共1个任务！
+Jun 15 09:31:19 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 15 09:31:20 准备做答题任务：每日答题
+Jun 15 09:31:20 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:8"
+Jun 15 09:31:21 获取任务列表  总共1个任务！
+Jun 15 09:31:28 邀请码提交失败 API 返回异常
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:28 助力码非 json 格式，跳过
+Jun 15 09:31:31 邀请码提交失败 API 返回异常
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:31:32 助力码非 json 格式，跳过
+Jun 15 09:32:01 获取随机助力码失败 API 返回异常
+Jun 15 09:32:01 京喜农场 - notify 通知已关闭
+Jun 15 09:32:01 账号2 - jd_rkylFaEIkvBL
+Jun 15 09:32:01 【京东账号2】jd_rkylFaEIkvBL
+Jun 15 09:32:01 【水果名称】大米
+Jun 15 09:32:01 【水滴】本次获得0 离线获得0 今日获得82 还需水滴699
+Jun 15 09:32:01 【预测】还需 9 天
+Jun 15 09:32:01 
+Jun 15 09:32:01 
+Jun 15 09:32:01 🔔京喜农场, 结束! 🕛 120.955 秒
+Jun 15 09:32:01 
+Jun 15 09:32:05 获取随机助力码失败 API 返回异常
+Jun 15 09:32:05 京喜农场 - notify 通知已关闭
+Jun 15 09:32:05 账号2 - jd_rkylFaEIkvBL
+Jun 15 09:32:05 【京东账号2】jd_rkylFaEIkvBL
+Jun 15 09:32:05 【水果名称】大米
+Jun 15 09:32:05 【水滴】本次获得0 离线获得0 今日获得82 还需水滴699
+Jun 15 09:32:05 【预测】还需 9 天
+Jun 15 09:32:05 
+Jun 15 09:32:05 
+Jun 15 09:32:05 🔔京喜农场, 结束! 🕛 124.461 秒
+Jun 15 09:32:05 
+Jun 15 12:30:01 
+Jun 15 12:30:01 🔔京喜农场, 开始!
+Jun 15 12:30:01 开始获取配置文件
+Jun 15 12:30:01 
+Jun 15 12:30:01 您的cookie选择的是用&隔开
+Jun 15 12:30:01 
+Jun 15 12:30:01 
+Jun 15 12:30:01 ====================共有2个京东账号Cookie=========
+Jun 15 12:30:01 
+Jun 15 12:30:01 
+Jun 15 12:30:01 🔔京喜农场, 开始!
+Jun 15 12:30:01 开始获取配置文件
+Jun 15 12:30:01 
+Jun 15 12:30:01 您的cookie选择的是用&隔开
+Jun 15 12:30:01 
+Jun 15 12:30:01 
+Jun 15 12:30:01 ====================共有2个京东账号Cookie=========
+Jun 15 12:30:01 
+Jun 15 12:30:01 ==================脚本执行- 北京时间(UTC+8)：6/15/2021, 12:30:01 PM=====================
+Jun 15 12:30:01 
+Jun 15 12:30:01 您的京喜农场助力码选择的是用&隔开
+Jun 15 12:30:01 
+Jun 15 12:30:01 共2个京东账号
+Jun 15 12:30:01 
+Jun 15 12:30:01 您提供了2个账号的京喜农场助力码
+Jun 15 12:30:01 ==================脚本执行- 北京时间(UTC+8)：6/15/2021, 12:30:01 PM=====================
+Jun 15 12:30:01 
+Jun 15 12:30:01 您的京喜农场助力码选择的是用&隔开
+Jun 15 12:30:01 
+Jun 15 12:30:01 共2个京东账号
+Jun 15 12:30:01 
+Jun 15 12:30:01 您提供了2个账号的京喜农场助力码
+Jun 15 12:30:01 
+Jun 15 12:30:01 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 15 12:30:01 
+Jun 15 12:30:01 ************* 检查【京东账号1】lman87 cookie 是否有效 *************
+Jun 15 12:30:01 开始【京东账号1】lman87
+Jun 15 12:30:01 
+Jun 15 12:30:01 第1个京东账号将要助力的好友["{\"smp\":\"1b081e839eb8b5240d9991bdbf66d31d\",\"active\":\"jdnc_1_3yuangancuimian210422_2\",\"joinnum\":1}","{\"smp\":\"efd4878e63f925b74eaa568bd99d00c2\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}",""]
+Jun 15 12:30:01 获取用户信息 & 任务列表
+Jun 15 12:30:01 开始【京东账号1】lman87
+Jun 15 12:30:01 
+Jun 15 12:30:01 第1个京东账号将要助力的好友["{\"smp\":\"1b081e839eb8b5240d9991bdbf66d31d\",\"active\":\"jdnc_1_3yuangancuimian210422_2\",\"joinnum\":1}","{\"smp\":\"efd4878e63f925b74eaa568bd99d00c2\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}",""]
+Jun 15 12:30:01 获取用户信息 & 任务列表
+Jun 15 12:30:01 获取任务列表  总共18个任务！
+Jun 15 12:30:01 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 15 12:30:01 获取任务列表  总共18个任务！
+Jun 15 12:30:01 【京东账号1（lman87）的京喜农场好友互助码】{"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":1}
+Jun 15 12:30:02 开始第1个任务：每日签到
+Jun 15 12:30:02 开始第1个任务：每日签到
+Jun 15 12:30:03 每日签到[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:03 结束第1个任务：每日签到
+Jun 15 12:30:03 开始第2个任务：开启明日免费领水滴提醒
+Jun 15 12:30:05 每日签到[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:05 结束第1个任务：每日签到
+Jun 15 12:30:05 开始第2个任务：开启明日免费领水滴提醒
+Jun 15 12:30:05 结束第2个任务：开启明日免费领水滴提醒
+Jun 15 12:30:05 开始第3个任务：爆款好货 满3单免3单
+Jun 15 12:30:06 开启明日免费领水滴提醒[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:06 结束第2个任务：开启明日免费领水滴提醒
+Jun 15 12:30:06 开始第3个任务：爆款好货 满3单免3单
+Jun 15 12:30:07 结束第3个任务：爆款好货 满3单免3单
+Jun 15 12:30:07 开始第4个任务：同城热销低至1.9元抢
+Jun 15 12:30:07 结束第3个任务：爆款好货 满3单免3单
+Jun 15 12:30:07 开始第4个任务：同城热销低至1.9元抢
+Jun 15 12:30:07 结束第4个任务：同城热销低至1.9元抢
+Jun 15 12:30:07 开始第5个任务：一万份鸡蛋免费送
+Jun 15 12:30:07 结束第4个任务：同城热销低至1.9元抢
+Jun 15 12:30:07 开始第5个任务：一万份鸡蛋免费送
+Jun 15 12:30:08 结束第5个任务：一万份鸡蛋免费送
+Jun 15 12:30:08 开始第6个任务：产地好货3.9元起
+Jun 15 12:30:09 产地好货3.9元起[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:09 结束第6个任务：产地好货3.9元起
+Jun 15 12:30:09 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 15 12:30:10 结束第5个任务：一万份鸡蛋免费送
+Jun 15 12:30:10 开始第6个任务：产地好货3.9元起
+Jun 15 12:30:10 产地好货3.9元起[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:10 结束第6个任务：产地好货3.9元起
+Jun 15 12:30:10 开始第7个任务：1元限时抢，省钱来秒杀
+Jun 15 12:30:11 1元限时抢，省钱来秒杀[做任务]：ret:1034 retmsg:"freq limit"
+Jun 15 12:30:11 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 15 12:30:11 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 15 12:30:12 结束第7个任务：1元限时抢，省钱来秒杀
+Jun 15 12:30:12 开始第8个任务：每日抽奖，瓜分千万京豆
+Jun 15 12:30:12 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 15 12:30:12 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 15 12:30:13 结束第8个任务：每日抽奖，瓜分千万京豆
+Jun 15 12:30:13 开始第9个任务：热爱狂欢趴 瓜分20亿
+Jun 15 12:30:14 热爱狂欢趴 瓜分20亿[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:14 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 15 12:30:14 开始第10个任务：去抢5折限量车型
+Jun 15 12:30:14 结束第9个任务：热爱狂欢趴 瓜分20亿
+Jun 15 12:30:14 开始第10个任务：去抢5折限量车型
+Jun 15 12:30:17 去抢5折限量车型[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:17 结束第10个任务：去抢5折限量车型
+Jun 15 12:30:17 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 15 12:30:17 去抢5折限量车型[做任务]：ret:1034 retmsg:"freq limit"
+Jun 15 12:30:17 结束第10个任务：去抢5折限量车型
+Jun 15 12:30:17 开始第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 15 12:30:19 19.9元3斤荔枝顺丰包邮[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:19 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 15 12:30:19 开始第12个任务：逛产地直发会场抢好货
+Jun 15 12:30:20 19.9元3斤荔枝顺丰包邮[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:20 结束第11个任务：19.9元3斤荔枝顺丰包邮
+Jun 15 12:30:20 开始第12个任务：逛产地直发会场抢好货
+Jun 15 12:30:21 结束第12个任务：逛产地直发会场抢好货
+Jun 15 12:30:21 开始第13个任务：限时领50元现金微信打款
+Jun 15 12:30:22 逛产地直发会场抢好货[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:22 结束第12个任务：逛产地直发会场抢好货
+Jun 15 12:30:22 开始第13个任务：限时领50元现金微信打款
+Jun 15 12:30:22 限时领50元现金微信打款[做任务]：ret:1034 retmsg:"freq limit"
+Jun 15 12:30:22 结束第13个任务：限时领50元现金微信打款
+Jun 15 12:30:22 开始第14个任务：领百万补贴红包
+Jun 15 12:30:22 结束第14个任务：领百万补贴红包
+Jun 15 12:30:22 开始第15个任务：上岛0元领好物
+Jun 15 12:30:22 结束第13个任务：限时领50元现金微信打款
+Jun 15 12:30:22 开始第14个任务：领百万补贴红包
+Jun 15 12:30:24 上岛0元领好物[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:24 结束第15个任务：上岛0元领好物
+Jun 15 12:30:24 开始第16个任务：去工厂0元领好物
+Jun 15 12:30:24 结束第14个任务：领百万补贴红包
+Jun 15 12:30:24 开始第15个任务：上岛0元领好物
+Jun 15 12:30:26 结束第15个任务：上岛0元领好物
+Jun 15 12:30:26 开始第16个任务：去工厂0元领好物
+Jun 15 12:30:26 结束第16个任务：去工厂0元领好物
+Jun 15 12:30:26 开始第17个任务：加入官方群，天天抢2元券
+Jun 15 12:30:27 加入官方群，天天抢2元券[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:27 结束第17个任务：加入官方群，天天抢2元券
+Jun 15 12:30:27 去工厂0元领好物[做任务]：ret:1034 retmsg:"freq limit"
+Jun 15 12:30:27 结束第16个任务：去工厂0元领好物
+Jun 15 12:30:27 开始第17个任务：加入官方群，天天抢2元券
+Jun 15 12:30:27 准备做答题任务：每日答题
+Jun 15 12:30:28 获取任务列表  总共18个任务！
+Jun 15 12:30:29 加入官方群，天天抢2元券[做任务]：ret:1013 retmsg:"expired"
+Jun 15 12:30:29 结束第17个任务：加入官方群，天天抢2元券
+Jun 15 12:30:29 准备做答题任务：每日答题
+Jun 15 12:30:30 获取任务列表  总共18个任务！
+Jun 15 12:30:38 邀请码提交失败 API 返回异常
+Jun 15 12:30:38 助力码与当前账号相同，跳过助力。准备进行下一个助力
+Jun 15 12:30:38 即将助力 share {"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":"1"}
+Jun 15 12:30:38 助力结果：ret=1021 retmsg="cannot helf self"
+Jun 15 12:30:39 即将助力 share {"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 15 12:30:39 助力结果：ret=0 retmsg="OK"
+Jun 15 12:30:40 邀请码提交失败 API 返回异常
+Jun 15 12:30:40 助力码与当前账号相同，跳过助力。准备进行下一个助力
+Jun 15 12:30:40 即将助力 share {"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":"1"}
+Jun 15 12:30:40 助力结果：ret=1021 retmsg="cannot helf self"
+Jun 15 12:30:41 即将助力 share {"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 15 12:30:41 助力结果：ret=1009 retmsg="today has help p2p"
+Jun 15 12:31:13 获取随机助力码失败 API 返回异常
+Jun 15 12:31:13 京喜农场 - notify 通知已关闭
+Jun 15 12:31:13 账号1 - lman87
+Jun 15 12:31:13 【京东账号1】lman87
+Jun 15 12:31:13 【水果名称】干脆面
+Jun 15 12:31:13 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 15 12:31:13 
+Jun 15 12:31:13 
+Jun 15 12:31:13 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 15 12:31:13 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 15 12:31:13 
+Jun 15 12:31:13 第2个京东账号将要助力的好友["{\"smp\":\"1b081e839eb8b5240d9991bdbf66d31d\",\"active\":\"jdnc_1_3yuangancuimian210422_2\",\"joinnum\":1}","{\"smp\":\"efd4878e63f925b74eaa568bd99d00c2\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}","{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 15 12:31:13 获取用户信息 & 任务列表
+Jun 15 12:31:13 获取任务列表  总共1个任务！
+Jun 15 12:31:13 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 15 12:31:14 准备做答题任务：每日答题
+Jun 15 12:31:14 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:8"
+Jun 15 12:31:15 获取任务列表  总共1个任务！
+Jun 15 12:31:16 获取随机助力码失败 API 返回异常
+Jun 15 12:31:16 京喜农场 - notify 通知已关闭
+Jun 15 12:31:16 账号1 - lman87
+Jun 15 12:31:16 【京东账号1】lman87
+Jun 15 12:31:16 【水果名称】干脆面
+Jun 15 12:31:16 【水滴】本次获得0 离线获得0 今日获得0 还需水滴160
+Jun 15 12:31:16 
+Jun 15 12:31:16 
+Jun 15 12:31:16 ************* 检查【京东账号2】jd_rkylFaEIkvBL cookie 是否有效 *************
+Jun 15 12:31:16 开始【京东账号2】jd_rkylFaEIkvBL
+Jun 15 12:31:16 
+Jun 15 12:31:16 第2个京东账号将要助力的好友["{\"smp\":\"1b081e839eb8b5240d9991bdbf66d31d\",\"active\":\"jdnc_1_3yuangancuimian210422_2\",\"joinnum\":1}","{\"smp\":\"efd4878e63f925b74eaa568bd99d00c2\",\"active\":\"jdnc_1_dami210601_2\",\"joinnum\":1}","{”smp“:”197a11628bedfa5978f7d1e596b647a7“,”active“:”jdnc_1_4yuantaimang210422_2“,”joinnum“:”1“}","{”smp“:”09faf21b3c0ee4830bb3b6ba7c2ed410“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”4“}","{”smp“:”4647117c4e2ed65cba2811116dccc54e“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”2“}","{”smp“:”26cfad604995debccf48bf7f5d23d6c4“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”b6568aa8bc32dcf4cc560fdb27a6d10b“,”active“:”jdnc_1_2yuanyumi210422_2“,”joinnum“:”1“}","{”smp“:”bd4a922c579763deb0ab210e55635f44“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”1“}","{”smp“:”b3cc0fec5726d448fa18e30eb03d3eaf“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}","{”smp“:”d88ec272545ab229fbfba897f4853023“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”15736cf530275c1cb064db6d977b3cd2“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”2“}","{”smp“:”2c3767954fb644997a87ae6bb7ab1f89“,”active“:”jdnc_1_yezhi1105_2“,”joinnum“:”1“}","{”smp“:”9b8752df84e35fcdcbac1b6b328c613c“,”active“:”jdnc_1_3yuanshousibang210601_2“,”joinnum“:”3“}","{”smp“:”b9168de01cb3abe50401990895f64efe“,”active“:”jdnc_1_2yuanguoba210601_2“,”joinnum“:”4“}","{”smp“:”2ffaaee4089e66c2750c22afaa07fef9“,”active“:”jdnc_1_shanyaopian210601_2“,”joinnum“:”4“}","{”smp“:”515e305f736ca8f9a06fcf52e9fb0c47“,”active“:”jdnc_1_3yuanshupian210601_2“,”joinnum“:”1“}","{”smp“:”e3fc113f72d7cb28fa819e031408b361“,”active“:”jdnc_1_3yuanganju210601_2“,”joinnum“:”1“}"]
+Jun 15 12:31:16 获取用户信息 & 任务列表
+Jun 15 12:31:16 获取任务列表  总共1个任务！
+Jun 15 12:31:16 【京东账号2（jd_rkylFaEIkvBL）的京喜农场好友互助码】{"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":1}
+Jun 15 12:31:17 准备做答题任务：每日答题
+Jun 15 12:31:17 每日答题[做任务]：ret:1029 retmsg:"no today config,indexDay:8"
+Jun 15 12:31:17 获取任务列表  总共1个任务！
+Jun 15 12:31:25 邀请码提交失败 API 返回异常
+Jun 15 12:31:26 即将助力 share {"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":"1"}
+Jun 15 12:31:26 助力结果：ret=1013 retmsg="has expired"
+Jun 15 12:31:27 助力码与当前账号相同，跳过助力。准备进行下一个助力
+Jun 15 12:31:27 即将助力 share {"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 15 12:31:27 助力结果：ret=1021 retmsg="cannot helf self"
+Jun 15 12:31:27 邀请码提交失败 API 返回异常
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 助力码非 json 格式，跳过
+Jun 15 12:31:28 即将助力 share {"smp":"1b081e839eb8b5240d9991bdbf66d31d","active":"jdnc_1_3yuangancuimian210422_2","joinnum":"1"}
+Jun 15 12:31:28 助力结果：ret=1013 retmsg="has expired"
+Jun 15 12:31:29 助力码与当前账号相同，跳过助力。准备进行下一个助力
+Jun 15 12:31:29 即将助力 share {"smp":"efd4878e63f925b74eaa568bd99d00c2","active":"jdnc_1_dami210601_2","joinnum":"1"}
+Jun 15 12:31:29 助力结果：ret=1021 retmsg="cannot helf self"
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:31:30 助力码非 json 格式，跳过
+Jun 15 12:32:01 获取随机助力码失败 API 返回异常
+Jun 15 12:32:01 
+Jun 15 12:32:01 ==============📣系统通知📣==============
+Jun 15 12:32:01 京喜农场
+Jun 15 12:32:01 【京东账号2】jd_rkylFaEIkvBL
+Jun 15 12:32:01 【水果名称】大米
+Jun 15 12:32:01 【水滴】本次获得0 离线获得20 今日获得102 还需水滴679
+Jun 15 12:32:01 【预测】还需 7 天
+Jun 15 12:32:01 
+Jun 15 12:32:01 
+Jun 15 12:32:01 
+Jun 15 12:32:01 您未提供server酱的SCKEY，取消微信推送消息通知🚫
+Jun 15 12:32:01 
+Jun 15 12:32:01 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Jun 15 12:32:01 
+Jun 15 12:32:01 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Jun 15 12:32:01 
+Jun 15 12:32:01 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Jun 15 12:32:01 
+Jun 15 12:32:01 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Jun 15 12:32:01 
+Jun 15 12:32:01 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Jun 15 12:32:01 
+Jun 15 12:32:01 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Jun 15 12:32:01 
+Jun 15 12:32:01 钉钉发送通知消息成功🎉。
+Jun 15 12:32:01 
+Jun 15 12:32:01 
+Jun 15 12:32:01 🔔京喜农场, 结束! 🕛 119.905 秒
+Jun 15 12:32:01 
+Jun 15 12:32:03 获取随机助力码失败 API 返回异常
+Jun 15 12:32:03 京喜农场 - notify 通知已关闭
+Jun 15 12:32:03 账号2 - jd_rkylFaEIkvBL
+Jun 15 12:32:03 【京东账号2】jd_rkylFaEIkvBL
+Jun 15 12:32:03 【水果名称】大米
+Jun 15 12:32:03 【水滴】本次获得0 离线获得0 今日获得102 还需水滴679
+Jun 15 12:32:03 【预测】还需 7 天
+Jun 15 12:32:03 
+Jun 15 12:32:03 
+Jun 15 12:32:03 🔔京喜农场, 结束! 🕛 122.064 秒
+Jun 15 12:32:03 
